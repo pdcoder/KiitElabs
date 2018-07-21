@@ -1,0 +1,77 @@
+Return-Path: <>
+Delivered-To: kiitelabs@cpanelprod1.sai-solutions.in
+Received: from cpanelprod1.sai-solutions.in
+	by cpanelprod1.sai-solutions.in with LMTP id SOAOBR9RPltiahQAyIEmcA
+	for <kiitelabs@cpanelprod1.sai-solutions.in>; Thu, 05 Jul 2018 17:10:55 +0000
+Return-path: <>
+Envelope-to: kiitelabs@cpanelprod1.sai-solutions.in
+Delivery-date: Thu, 05 Jul 2018 17:10:55 +0000
+Received: from mailnull by cpanelprod1.sai-solutions.in with local (Exim 4.91)
+	id 1fb7mQ-005c3n-W1
+	for kiitelabs@cpanelprod1.sai-solutions.in; Thu, 05 Jul 2018 17:10:55 +0000
+X-Failed-Recipients: sagnikpaul2882@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@cpanelprod1.sai-solutions.in>
+To: kiitelabs@cpanelprod1.sai-solutions.in
+Content-Type: multipart/report; report-type=delivery-status; boundary=1530810654-eximdsn-1463440085
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1fb7mQ-005c3n-W1@cpanelprod1.sai-solutions.in>
+Date: Thu, 05 Jul 2018 17:10:54 +0000
+
+--1530810654-eximdsn-1463440085
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sagnikpaul2882@gmail.com
+    retry timeout exceeded
+
+--1530810654-eximdsn-1463440085
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; cpanelprod1.sai-solutions.in
+
+Action: failed
+Final-Recipient: rfc822;sagnikpaul2882@gmail.com
+Status: 5.0.0
+
+--1530810654-eximdsn-1463440085
+Content-type: message/rfc822
+
+Return-path: <kiitelabs@cpanelprod1.sai-solutions.in>
+Received: from kiitelabs by cpanelprod1.sai-solutions.in with local (Exim 4.91)
+	(envelope-from <kiitelabs@cpanelprod1.sai-solutions.in>)
+	id 1fb7lP-005c1W-JO
+	for sagnikpaul2882@gmail.com; Thu, 05 Jul 2018 17:09:51 +0000
+To: sagnikpaul2882@gmail.com
+Subject: [ELabs] Your site has updated to WordPress 4.8.7
+X-PHP-Script: www.kiitelabs.com/wp-cron.php for 52.173.85.101
+X-PHP-Originating-Script: 564:class-phpmailer.php
+Date: Thu, 5 Jul 2018 17:09:51 +0000
+From: WordPress <wordpress@kiitelabs.com>
+Message-ID: <bb2143d109b2bcf254877aa2cce419ee@www.kiitelabs.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Howdy! Your site at http://www.kiitelabs.com has been updated automatically to WordPress 4.8.7.
+
+For more on version 4.8.7, see the About WordPress screen:
+http://www.kiitelabs.com/wp-admin/about.php
+
+WordPress 4.9.7 is also now available. Updating is easy and only takes a few moments:
+http://www.kiitelabs.com/wp-admin/update-core.php
+
+If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+https://wordpress.org/support/
+
+Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers.
+
+The WordPress Team
+
+
+--1530810654-eximdsn-1463440085--

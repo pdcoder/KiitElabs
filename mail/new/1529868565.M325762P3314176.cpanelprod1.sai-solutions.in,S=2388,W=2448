@@ -1,0 +1,60 @@
+Return-Path: <>
+Delivered-To: kiitelabs@cpanelprod1.sai-solutions.in
+Received: from cpanelprod1.sai-solutions.in
+	by cpanelprod1.sai-solutions.in with LMTP id KK5cExXxL1sAkjIAyIEmcA
+	for <kiitelabs@cpanelprod1.sai-solutions.in>; Sun, 24 Jun 2018 19:29:25 +0000
+Return-path: <>
+Envelope-to: kiitelabs@cpanelprod1.sai-solutions.in
+Delivery-date: Sun, 24 Jun 2018 19:29:25 +0000
+Received: from mailnull by cpanelprod1.sai-solutions.in with local (Exim 4.91)
+	id 1fXAhR-00DuBq-7d
+	for kiitelabs@cpanelprod1.sai-solutions.in; Sun, 24 Jun 2018 19:29:25 +0000
+X-Failed-Recipients: majumdartanmay68@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@cpanelprod1.sai-solutions.in>
+To: kiitelabs@cpanelprod1.sai-solutions.in
+Content-Type: multipart/report; report-type=delivery-status; boundary=1529868565-eximdsn-2044752828
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1fXAhR-00DuBq-7d@cpanelprod1.sai-solutions.in>
+Date: Sun, 24 Jun 2018 19:29:25 +0000
+
+--1529868565-eximdsn-2044752828
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  majumdartanmay68@gmail.com
+    all hosts for 'gmail.com' have been failing for a long time (and retry time not reached)
+
+--1529868565-eximdsn-2044752828
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; cpanelprod1.sai-solutions.in
+
+Action: failed
+Final-Recipient: rfc822;majumdartanmay68@gmail.com
+Status: 5.0.0
+
+--1529868565-eximdsn-2044752828
+Content-type: message/rfc822
+
+Return-path: <kiitelabs@cpanelprod1.sai-solutions.in>
+Received: from kiitelabs by cpanelprod1.sai-solutions.in with local (Exim 4.91)
+	(envelope-from <kiitelabs@cpanelprod1.sai-solutions.in>)
+	id 1fXAhR-00DuBk-2w
+	for majumdartanmay68@gmail.com; Sun, 24 Jun 2018 19:29:25 +0000
+To: majumdartanmay68@gmail.com
+Subject: Reset Your Password
+X-PHP-Script: www.kiitelabs.com/index.php for 116.74.251.128
+X-PHP-Originating-Script: 564:page-forgot-password.php
+From: Elabs <elabs.service@gmail.com>
+Message-Id: <E1fXAhR-00DuBk-2w@cpanelprod1.sai-solutions.in>
+Date: Sun, 24 Jun 2018 19:29:25 +0000
+
+Enter the following code to reset your password for Elabs: 394906
+
+--1529868565-eximdsn-2044752828--

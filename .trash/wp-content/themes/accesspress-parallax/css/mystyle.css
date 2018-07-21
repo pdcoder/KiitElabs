@@ -1,0 +1,150 @@
+html, body{
+    width: 100vw;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+h1, h2, h3, h4, h5, h6, p{
+	font-family: 'Roboto Slab', serif;
+}
+
+h1{
+    font-size: 7vmin;
+}
+h2{
+    font-size: 6.4vmin;
+}
+h3{
+    font-size: 5.8vmin;
+}
+h4{
+    font-size: 5vmin;
+}
+h5{
+    font-size: 4.2vmin;
+}
+h6{
+    font-size: 3.6vmin;
+}
+#memberimages:hover #layer{
+    transition: 0.35s;
+    height: 17.5vmax;
+    opacity: 1;
+}
+#layer{
+    transition: 0.3s;
+    z-index: 3;
+    opacity: 0;
+    background: rgba(255, 255, 255, 0.7);
+    position: fixed;
+    height: 17.5vmax;
+    width: 17.5vmax;
+}
+
+#layer img{
+    height: 0;
+    width: 0;
+    z-index: 0;
+    transition: 0.3s;
+    padding: 1.5vmin;
+    color: white;
+    transition: 0.3s;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -ie-border-radius: 50%;
+    margin-top: 3vmax;
+    margin-left: 1.5vw;
+    margin-right: 1.5vw;
+    box-shadow: 0 0 3px 0.4px #777;
+}
+#layer img:hover{
+    z-index: 3;
+    box-shadow: 0 0 3px 2px #777;
+    transition: 0.3s;
+}
+
+#memberimages:hover #layer{
+    transition: 0.3s;
+    height: 17.5vmax;
+    opacity: 1;
+}
+
+#memberimages:hover img{
+    filter: blur(2px) grayscale(0.5);
+    -webkit-filter: blur(2px) grayscale(0.5);
+    -moz-filter: blur(2px) grayscale(0.5);
+    -ms-filter: blur(2px) grayscale(0.5);
+    -ie-filter: blur(2px) grayscale(0.5);
+}
+
+#memberimages:hover a img{
+    transition: 0.2s;
+    width: 8vmin;
+    height: 8vmin;
+    filter: blur(0) grayscale(0);
+    -webkit-filter: blur(0) grayscale(0);
+    -moz-filter: blur(0) grayscale(0);
+    -ms-filter: blur(0) grayscale(0);
+    -ie-filter: blur(0) grayscale(0);
+}
+
+#memberimages:hover #content_members{
+    box-shadow: 0 0 3px 3px #aaa;
+}
+
+#content_members{
+    margin-top: 2vh;
+    display: block;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-bottom: 1.5vh;
+    padding-top: 2vh;
+    box-shadow: 0 0 3px 0.5px #aaa;
+}
+
+input, label, .wpcf7-form-control-wrap, .wpcf7-form-control{
+width: 100%;
+border-radius: 4px;
+}
+
+.hentry{
+    padding: 0;
+    margin-bottom: 0;
+}
+
+#posts:hover{
+    box-shadow: 0 0 2vmin #ddd;
+}
+
+.loader {
+  margin-top: 35vh;
+  border: 3vmin solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 3vmin solid #E66432;
+  width: 20vmin;
+  height: 20vmin;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+footer.entry-footer{
+    display: none;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+
+
+@media screen and (max-width: 768px){
+    #posts{
+        box-shadow: 0 0 4vmin #ddd;
+    }
+}

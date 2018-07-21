@@ -1,0 +1,70 @@
+Return-Path: <>
+Delivered-To: kiitelabs@cpanelprod1.sai-solutions.in
+Received: from cpanelprod1.sai-solutions.in
+	by cpanelprod1.sai-solutions.in with LMTP id qFiBCpphQlvj0R0AyIEmcA
+	for <kiitelabs@cpanelprod1.sai-solutions.in>; Sun, 08 Jul 2018 19:10:18 +0000
+Return-path: <>
+Envelope-to: kiitelabs@cpanelprod1.sai-solutions.in
+Delivery-date: Sun, 08 Jul 2018 19:10:18 +0000
+Received: from mailnull by cpanelprod1.sai-solutions.in with local (Exim 4.91)
+	id 1fcF4c-008COM-1t
+	for kiitelabs@cpanelprod1.sai-solutions.in; Sun, 08 Jul 2018 19:10:18 +0000
+X-Failed-Recipients: prakashdas1998.pd@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@cpanelprod1.sai-solutions.in>
+To: kiitelabs@cpanelprod1.sai-solutions.in
+Content-Type: multipart/report; report-type=delivery-status; boundary=1531077018-eximdsn-174051441
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1fcF4c-008COM-1t@cpanelprod1.sai-solutions.in>
+Date: Sun, 08 Jul 2018 19:10:18 +0000
+
+--1531077018-eximdsn-174051441
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  prakashdas1998.pd@gmail.com
+    all hosts for 'gmail.com' have been failing for a long time (and retry time not reached)
+
+--1531077018-eximdsn-174051441
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; cpanelprod1.sai-solutions.in
+
+Action: failed
+Final-Recipient: rfc822;prakashdas1998.pd@gmail.com
+Status: 5.0.0
+
+--1531077018-eximdsn-174051441
+Content-type: message/rfc822
+
+Return-path: <kiitelabs@cpanelprod1.sai-solutions.in>
+Received: from kiitelabs by cpanelprod1.sai-solutions.in with local (Exim 4.91)
+	(envelope-from <kiitelabs@cpanelprod1.sai-solutions.in>)
+	id 1fcF4b-008COD-Rm
+	for prakashdas1998.pd@gmail.com; Sun, 08 Jul 2018 19:10:17 +0000
+To: prakashdas1998.pd@gmail.com
+Subject: [ELabs] Your username and password info
+X-PHP-Script: www.kiitelabs.com/wp-admin/user-new.php for 27.6.158.147
+X-PHP-Originating-Script: 564:class-phpmailer.php
+Date: Sun, 8 Jul 2018 19:10:17 +0000
+From: WordPress <wordpress@kiitelabs.com>
+Message-ID: <096770110fcb782e725ec4c309693875@www.kiitelabs.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Username: pdcoder
+
+To set your password, visit the following address:
+
+<http://www.kiitelabs.com/wp-login.php?action=rp&key=UQ5i7g23CylLR3u55Mrm&login=pdcoder>
+
+http://www.kiitelabs.com/wp-login.php
+
+
+--1531077018-eximdsn-174051441--

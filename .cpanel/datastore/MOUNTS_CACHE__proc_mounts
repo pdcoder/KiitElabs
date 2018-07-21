@@ -1,0 +1,15 @@
+proc /proc proc rw,relatime,hidepid=2 0 0
+sysfs /sys sysfs rw,relatime 0 0
+devtmpfs /dev devtmpfs rw,relatime,size=16373352k,nr_inodes=4093338,mode=755 0 0
+devpts /dev/pts devpts rw,relatime,gid=5,mode=620,ptmxmode=000 0 0
+tmpfs /dev/shm tmpfs rw,relatime 0 0
+/dev/sda1 / ext4 rw,relatime,barrier=1,data=ordered,jqfmt=vfsv0,usrjquota=quota.user 0 0
+/proc/bus/usb /proc/bus/usb usbfs rw,relatime 0 0
+/dev/sdb1 /home ext4 rw,relatime,barrier=1,data=ordered,jqfmt=vfsv0,usrjquota=quota.user 0 0
+/dev/sdc /data ext4 rw,relatime,barrier=1,data=ordered 0 0
+none /proc/sys/fs/binfmt_misc binfmt_misc rw,relatime 0 0
+/dev/sda1 /var/tmp ext4 rw,nosuid,noexec,relatime,barrier=1,data=ordered,jqfmt=vfsv0,usrjquota=quota.user 0 0
+sunrpc /var/lib/nfs/rpc_pipefs rpc_pipefs rw,relatime 0 0
+nfsd /proc/fs/nfsd nfsd rw,relatime 0 0
+/etc/auto.misc /misc autofs rw,relatime,fd=7,pgrp=777417,timeout=300,minproto=5,maxproto=5,indirect 0 0
+-hosts /net autofs rw,relatime,fd=13,pgrp=777417,timeout=300,minproto=5,maxproto=5,indirect 0 0

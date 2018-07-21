@@ -1,0 +1,70 @@
+Return-Path: <>
+Delivered-To: kiitelabs@cpanelprod1.sai-solutions.in
+Received: from cpanelprod1.sai-solutions.in
+	by cpanelprod1.sai-solutions.in with LMTP id UCTUKjeBS1vurgAAyIEmcA
+	for <kiitelabs@cpanelprod1.sai-solutions.in>; Sun, 15 Jul 2018 17:15:35 +0000
+Return-path: <>
+Envelope-to: kiitelabs@cpanelprod1.sai-solutions.in
+Delivery-date: Sun, 15 Jul 2018 17:15:35 +0000
+Received: from mailnull by cpanelprod1.sai-solutions.in with local (Exim 4.91)
+	id 1fekcR-000BeC-KF
+	for kiitelabs@cpanelprod1.sai-solutions.in; Sun, 15 Jul 2018 17:15:35 +0000
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@cpanelprod1.sai-solutions.in>
+To: kiitelabs@cpanelprod1.sai-solutions.in
+Content-Type: multipart/report; report-type=delivery-status; boundary=1531674935-eximdsn-754554700
+MIME-Version: 1.0
+Subject: Warning: message 1feBhV-00ESbs-P2 delayed 24 hours
+Message-Id: <E1fekcR-000BeC-KF@cpanelprod1.sai-solutions.in>
+Date: Sun, 15 Jul 2018 17:15:35 +0000
+
+--1531674935-eximdsn-754554700
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+A message that you sent has not yet been delivered to one or more of its
+recipients after more than 24 hours on the queue on cpanelprod1.sai-solutions.in.
+
+The message identifier is:     1feBhV-00ESbs-P2
+The subject of the message is: [ELabs] Your username and password info
+The date of the message is:    Sat, 14 Jul 2018 03:58:29 +0000
+
+The address to which the message has not yet been delivered is:
+
+  pritamchowdhury71@gmail.com
+
+No action is required on your part. Delivery attempts will continue for
+some time, and this warning may be repeated at intervals if the message
+remains undelivered. Eventually the mail delivery software will give up,
+and when that happens, the message will be returned to you.
+
+--1531674935-eximdsn-754554700
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; cpanelprod1.sai-solutions.in
+
+Action: delayed
+Final-Recipient: rfc822;pritamchowdhury71@gmail.com
+Status: 4.0.0
+
+--1531674935-eximdsn-754554700
+Content-type: text/rfc822-headers
+
+Return-path: <kiitelabs@cpanelprod1.sai-solutions.in>
+Received: from kiitelabs by cpanelprod1.sai-solutions.in with local (Exim 4.91)
+	(envelope-from <kiitelabs@cpanelprod1.sai-solutions.in>)
+	id 1feBhV-00ESbs-P2
+	for pritamchowdhury71@gmail.com; Sat, 14 Jul 2018 03:58:29 +0000
+To: pritamchowdhury71@gmail.com
+Subject: [ELabs] Your username and password info
+X-PHP-Script: www.kiitelabs.com/wp-admin/user-new.php for 47.15.120.52
+X-PHP-Originating-Script: 564:class-phpmailer.php
+Date: Sat, 14 Jul 2018 03:58:29 +0000
+From: WordPress <wordpress@kiitelabs.com>
+Message-ID: <33e6789051e8f118f464265ca9924d94@www.kiitelabs.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+
+--1531674935-eximdsn-754554700--

@@ -1,0 +1,484 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201805 will be lost/reset.
+# Last config file used to build this data file was /home/kiitelabs/tmp/awstats/awstats.kiitelabs.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2689                
+POS_VISITOR 12970               
+POS_DAY 14300               
+POS_DOMAIN 3388                
+POS_LOGIN 3722                
+POS_ROBOT 3877                
+POS_WORMS 4140                
+POS_EMAILSENDER 4271                
+POS_EMAILRECEIVER 4414                
+POS_SESSION 14573               
+POS_SIDER 14757               
+POS_FILETYPES 4549                
+POS_DOWNLOADS 4805                
+POS_OS 6295                
+POS_BROWSER 6584                
+POS_SCREENSIZE 7391                
+POS_UNKNOWNREFERER 7465                
+POS_UNKNOWNREFERERBROWSER 7820                
+POS_ORIGIN 8090                
+POS_SEREFERRALS 8228                
+POS_PAGEREFS 8372                
+POS_SEARCHWORDS 8520                
+POS_KEYWORDS 8672                
+POS_MISC 2353                
+POS_ERRORS 8731                
+POS_CLUSTER 3578                
+POS_SIDER_404 8855                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180601021911 16 2651 16716554888503
+FirstTime 20180523001710
+LastTime 20180531223557
+LastUpdate 20180601074321 16 0 15 0 0
+TotalVisits 95                  
+TotalUnique 26                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 34                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 4 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 5 805 1 39 633538
+1 2 2 0 1 4 53805
+2 5 5 51936 13 15 84218
+3 4 4 25968 179 281 4034685
+4 36 160 22099037 10 19 177570
+5 4 27 28310 0 2 37185
+6 4 4 25968 5 21 401074
+7 4 4 25968 2 5 34607
+8 2 2 0 1 5 52111
+9 2 2 0 0 5 113400
+10 2 2 0 2 7 90205
+11 2 2 0 0 5 110786
+12 139 643 45195213 41 144 808740
+13 23 250 14764561 7 17 226472
+14 224 283 11821171 25 41 206694
+15 3 4 27515 7 25 510522
+16 9 78 4115367 1 15 554381
+17 3 4 27515 1 4 45155
+18 4 5 27515 2 7 95737
+19 5 9 633347 0 6 72809
+20 0 0 0 0 0 0
+21 0 0 0 0 3 69898
+22 8 9 79451 3 8 54001
+23 3 3 25968 6 55 1437167
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+in 358 997 52681496
+us 97 323 23983910
+il 31 155 22124200
+gb 2 4 52090
+cn 2 2 51936
+ca 2 4 54632
+se 1 1 25968
+zz 0 21 1383
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+Googlebot/ 449 5866732 20180531234736 56
+Googlebot\-Image/ 80 3219036 20180529164129 0
+DomainSONOCrawler/ 3 26035 20180524152910 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+jpg 364 66942480 0 0
+svg 3 4563 0 0
+woff2 11 789628 0 0
+php 351 11384492 0 0
+png 242 9683949 0 0
+gif 24 180358 0 0
+css 126 3547064 0 0
+html 131 3616766 0 0
+js 232 2824778 0 0
+txt 23 1537 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 20
+/.well-known/pki-validation/CCCC7EFA1421EA7983E38057170DC0D3.txt 4 0 308
+/.well-known/pki-validation/6477F1333F8639FEBF0F457F01AC92C1.txt 1 0 64
+/.well-known/pki-validation/10021711FD8BE01990D8573CAC2DD229.txt 1 0 64
+/.well-known/pki-validation/FA657E2AB71C5990AF57435235C49572.txt 1 0 64
+/.well-known/pki-validation/AB37CC9C5C6D06CDDD16AAFFFA76FF4C.txt 1 0 64
+/.well-known/pki-validation/0DC5CBCDA85CF0F8C42E79349FA396DB.txt 1 0 64
+/.well-known/pki-validation/327CA647E2B95EE6AD50F202FF6E44A1.txt 1 0 64
+/.well-known/pki-validation/79DE287610B3C7F24A2A5F425AFDE055.txt 1 0 64
+/.well-known/pki-validation/84DCC6162028E9EFD03282CC39213065.txt 1 0 64
+/.well-known/pki-validation/87949031606328EB61AC4C50C4D40C5C.txt 1 0 64
+/.well-known/pki-validation/9A314DEDC8B18454C90FF5581313D99C.txt 1 0 64
+/.well-known/pki-validation/193EF5E9F5DA76C2380CCF1DF4CC1639.txt 1 0 64
+/.well-known/pki-validation/546789B90CA068FAB37F7F0513CFEA30.txt 1 0 64
+/.well-known/pki-validation/587EEB04B0E880D82738579104760B63.txt 1 0 77
+/.well-known/pki-validation/2EAC5ED644EF74380F2CDB5807A67298.txt 1 0 64
+/.well-known/pki-validation/7D0AA5F5DF66AFF1C11EAEE34EA57A4B.txt 1 0 64
+/.well-known/pki-validation/56AC928115C80C9BFF55F0A1EB96A44E.txt 1 0 64
+/.well-known/pki-validation/052354D60617EE34EC9600D64D3C55B1.txt 1 0 64
+/.well-known/pki-validation/6A7F970D10D07AE550FFC218E74D58B1.txt 1 0 64
+/.well-known/pki-validation/8B5E9A87189E52E5251A369E5CFA9C07.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+win8 14 0
+winxp 6 2
+win7 123 25
+linuxandroid 146 11
+macosx8 8 0
+win8.1 17 4
+macosx10 1 1
+linux 24 7
+macosx12 3 3
+macosx9 12 3
+macosx7 8 1
+win10 916 352
+Unknown 95 69
+linuxubuntu 3 1
+ios_iphone 117 9
+winlong 8 3
+macosx6 6 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 41
+chrome32.0.1700.68 1 0
+chrome12.0.742.91 3 0
+msie11 4 1
+chrome31.0.1650.57 10 3
+opera12.16 2 0
+chrome32.0.1700.41 1 0
+chrome49.0.2623.75 8 4
+chrome32.0.1700.72 7 3
+chrome61.0.3163.100 3 3
+safari6.1.1 4 0
+android 2 2
+firefox27.3 2 1
+safari5.1.9 3 1
+firefox33.0 2 1
+firefox47.0 1 1
+chrome35.0.1916.153 4 1
+mozilla 3 0
+firefox31.0 1 0
+chrome58.0.3029.81 1 1
+chrome25.0.1364.172 1 1
+chrome66.0.3359.181 979 359
+chrome11.0.696.71 2 2
+firefox25.0 10 2
+safari11.0 117 9
+msie10.0 9 2
+msie11.0 9 2
+firefox36.0 3 1
+firefox53.0 1 1
+msie9.0 2 0
+firefox40.1 1 1
+firefox52.0 1 1
+chrome40.0.2214.111 1 0
+safari6.1 5 1
+chrome66.0.3359.158 85 5
+firefox29.0 2 0
+firefox26.0 22 6
+firefox24.0 5 2
+chrome31.0.1650.63 36 3
+chrome65.0.3325.109 59 4
+firefox27.0 3 0
+Unknown 92 69
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Go-http-client/1.1 20180527030830
+WordPress/4.8.6;_http://www.kiitelabs.com/kiitelabs.com 20180523132255
+WordPress/4.8.6;_http://www.kiitelabs.com 20180531223557
+COMODO_DCV 20180531050135
+Mozilla/6.0_(compatible) 20180530044827
+Mozilla/5.0_(compatible) 20180530044834
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+COMODO_DCV 20180531050135
+WordPress/4.8.6;_http://www.kiitelabs.com 20180531223557
+WordPress/4.8.6;_http://www.kiitelabs.com/kiitelabs.com 20180523132255
+Go-http-client/1.1 20180527030830
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 38 180
+From1 0 0
+From2 0 0
+From3 0 0
+From4 455 1327
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+301 34 983
+404 130 316874
+206 6 105030
+302 22 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 45
+/kiitelabs.com/ 2 http://kiitelabs.com/
+/wp-content/themes/accesspress-parallax/css/nivo-lightbox.css 2 http://www.kiitelabs.com/kiitelabs.com/
+/contact-us/ 1 http://www.kiitelabs.com/
+/kiitelabs.com/wp-content/uploads/2017/10/back4.jpg 2 http://www.kiitelabs.com/wp-admin/themes.php
+/wp-content/themes/accesspress-parallax/js/jquery.bxslider.min.js 4 http://www.kiitelabs.com/kiitelabs.com/
+/wp-content/themes/accesspress-parallax/css/fontawesome/css/font-awesome.min.css 2 http://www.kiitelabs.com/kiitelabs.com/
+/kiitelabs.com/blogs/ 2 http://www.kiitelabs.com/kiitelabs.com/
+/wp-content/themes/accesspress-parallax/css/animate.css 2 http://www.kiitelabs.com/kiitelabs.com/
+/kiitelabs.com/wp-content/themes/accesspress-parallax/css/font-awesome.min.css 4 http://www.kiitelabs.com/kiitelabs.com/wp-admin/themes.php
+/wp-content/themes/accesspress-parallax/css/bootstrap.min.css.map 1 -
+/wp-content/themes/accesspress-parallax/js/jquery.actual.min.js 4 http://www.kiitelabs.com/kiitelabs.com/
+/wp-content/themes/accesspress-parallax/js/nivo-lightbox.min.js 4 http://www.kiitelabs.com/kiitelabs.com/
+/imyoskpjis.html 1 -
+/kiitelabs.com/wp-content/themes/accesspress-parallax/css/bootstrap.min.css.map 18 -
+/wp-content/themes/accesspress-parallax/css/jquery.bxslider.css 2 http://www.kiitelabs.com/kiitelabs.com/
+/wp-content/themes/accesspress-parallax/js/jquery.easing.min.js 4 http://www.kiitelabs.com/kiitelabs.com/
+/wp-content/themes/accesspress-parallax/css/mystyle.css 2 http://www.kiitelabs.com/kiitelabs.com/
+/wp-content/themes/accesspress-parallax/css/bootstrap.min.css 2 http://www.kiitelabs.com/kiitelabs.com/
+/wp-content/themes/accesspress-parallax/css/font-awesome.min.css 4 http://www.kiitelabs.com/wp-admin/themes.php
+/wp-content/themes/accesspress-parallax/js/parallax.js 4 http://www.kiitelabs.com/kiitelabs.com/
+/wp-includes/js/jquery/jquery.js 2 http://www.kiitelabs.com/kiitelabs.com/
+/admin 1 -
+/wp-content/themes/accesspress-parallax/js/jquery.localScroll.min.js 4 http://www.kiitelabs.com/kiitelabs.com/
+/kiitelabs.com/android/ 1 http://www.kiitelabs.com/kiitelabs.com/
+/kiitelabs.com/blog/ 1 -
+/wp-content/themes/accesspress-parallax/js/mystyle.js 3 http://www.kiitelabs.com/kiitelabs.com/
+/wp-content/themes/accesspress-parallax/js/jquery.fitvids.js 4 http://www.kiitelabs.com/kiitelabs.com/
+/wp-content/themes/accesspress-parallax/js/jquery.nav.js 4 http://www.kiitelabs.com/kiitelabs.com/
+/kiitelabs.com/admin 1 -
+/wp-includes/js/jquery/jquery-migrate.min.js 3 http://www.kiitelabs.com/kiitelabs.com/
+/wp-cron.php 3 http://www.kiitelabs.com/wp-cron.php
+/wp-content/themes/accesspress-parallax/css/responsive.css 2 http://www.kiitelabs.com/kiitelabs.com/
+/dashboard/ 1 -
+/wp-content/themes/accesspress-parallax/js/custom.js 3 http://www.kiitelabs.com/kiitelabs.com/
+/wp-content/themes/accesspress-parallax/js/jquery.scrollTo.min.js 4 http://www.kiitelabs.com/kiitelabs.com/
+/kiitelabs.com/wp-content/uploads/2017/11/cropped-cropped-Logo1.png 3 http://www.kiitelabs.com/
+/wp-content/themes/accesspress-parallax/js/bootstrap.min.js 3 http://www.kiitelabs.com/kiitelabs.com/
+/wp-content/themes/accesspress-parallax/style.css 2 http://www.kiitelabs.com/kiitelabs.com/
+/wp-content/uploads/2017/11/blog_mesa-e1431187984547.jpg 3 http://www.kiitelabs.com/kiitelabs.com/
+/kiitelabs.com/wp-content/uploads/2017/10/back3.jpg 2 http://www.kiitelabs.com/wp-admin/themes.php
+/web-development/ 2 http://www.kiitelabs.com/
+/wp-includes/js/wp-emoji-release.min.js 2 http://www.kiitelabs.com/kiitelabs.com/
+/wp-includes/js/wp-embed.min.js 3 http://www.kiitelabs.com/kiitelabs.com/
+/wp-content/themes/accesspress-parallax/woocommerce/ap-parallax-style.css 2 http://www.kiitelabs.com/kiitelabs.com/
+/wp-content/themes/accesspress-parallax/js/SmoothScroll.js 4 http://www.kiitelabs.com/kiitelabs.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 34
+42.110.143.188 342 803 40792376 20180523143002
+52.173.85.101 68 68 0 20180531223557
+82.80.249.192 28 37 912768 20180530042622
+157.42.35.238 8 109 15582107 20180523124405
+117.214.50.154 7 63 3946081 20180528121724
+106.203.135.141 4 57 3839848 20180523131406
+64.233.173.48 3 30 1333801 20180523160246
+106.203.131.93 3 54 3255046 20180523134257
+66.102.6.235 3 4 79451 20180529171027
+13.56.232.243 3 3 77904 20180529052839
+163.172.4.153 2 2 51936 20180530070559
+106.203.181.197 2 6 633347 20180523191415
+218.241.108.76 2 2 51936 20180526161822
+47.15.129.8 2 4 54632 20180523130956
+148.62.14.156 2 2 1610 20180523054304
+64.233.173.38 2 23 1621015 20180523161939
+82.80.230.228 2 103 17448538 20180530044816
+64.233.173.44 2 23 2053208 20180523135343
+66.102.6.237 1 3 29062 20180524181811
+192.71.247.123 1 1 25968 20180527063553
+82.80.249.211 1 1 25968 20180530042537
+64.233.173.33 1 18 1027773 20180523161941
+23.22.12.36 1 1 25968 20180527030830
+64.233.173.139 1 1 805 20180523043942
+18.236.184.165 1 1 25968 20180525234427
+64.233.173.62 0 17 1225197 
+91.199.212.132 0 2 154 
+82.80.249.164 0 5 727352 
+66.102.6.239 0 1 1547 
+10.0.1.4 0 21 1383 
+42.110.150.151 0 14 214798 
+82.80.249.143 0 9 3009574 
+198.12.131.80 1 1 805 20180523125656
+64.233.173.46 0 18 897689 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20180523 381 1196 72562085 21
+20180524 8 11 53611 8
+20180525 11 13 52064 8
+20180526 10 13 79579 10
+20180527 16 18 78032 16
+20180528 18 76 3946209 12
+20180529 9 12 53611 8
+20180530 37 163 22150296 9
+20180531 3 5 128 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30s-2mn 5
+30mn-1h 4
+5mn-15mn 1
+0s-30s 83
+1h+ 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 61
+/wp-admin/admin-ajax.php 141 9108 0 1
+/wp-cron.php 65 0 59 60
+/ 50 1212689 29 24
+/kiitelabs.com/ 40 1284517 3 3
+/kiitelabs.com/wp-admin/admin-ajax.php 33 1065508 0 0
+/wp-admin/post.php 26 3243367 0 0
+/wp-admin/load-scripts.php 13 1016223 0 0
+/kiitelabs.com/wp-admin/load-scripts.php 12 1070171 0 0
+/wp-admin/load-styles.php 7 494977 0 0
+/wp-login.php 7 24198 0 1
+/kiitelabs.com/wp-login.php 7 24726 0 0
+/kiitelabs.com/wp-admin/load-styles.php 6 456212 0 0
+/wp-content/themes/accesspress-parallax/css/fontawesome/fonts/fontawesome-webfont.woff2 5 385800 1 2
+/kiitelabs.com/wp-content/themes/accesspress-parallax/css/fontawesome/fonts/fontawesome-webfont.woff2 5 385800 0 0
+/wp-admin/edit.php 4 368764 0 0
+/wp-admin/themes.php 4 468859 0 0
+/kiitelabs.com/wp-admin/themes.php 4 471053 0 0
+/kiitelabs.com/wp-admin/edit.php 3 290095 0 0
+/contact-us/ 3 50750 0 0
+/kiitelabs.com/wp-admin/upload.php 3 234176 0 0
+/kiitelabs.com/wp-cron.php 3 0 2 1
+/kiitelabs.com/wp-admin/customize.php 3 775390 0 0
+/kiitelabs.com/team/ 2 155441 0 0
+/wp-admin/options-permalink.php 2 60290 0 0
+/register/ 2 40504 0 0
+/blogs/ 1 25600 0 0
+/kiitelabs.com/dashboard/ 1 16711 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 1 200338 0 0
+/kiitelabs.com/wp-admin/options-general.php 1 65263 0 0
+/java/ 1 19243 0 0
+/category/blog-iot/ 1 16905 0 0
+/web-development/ 1 17806 0 0
+/why-we-code-%F0%9F%A4%94%F0%9F%A4%94%F0%9F%A4%94/ 1 23900 0 0
+/notices/ 1 15989 0 0
+/dashboard/ 2 32826 0 0
+/kiitelabs.com/wp-admin/options-permalink.php 1 30108 0 0
+/top-cyber-attacks-around-the-globe/ 1 26411 0 0
+/category/blogs/ 1 32398 0 0
+/iot/ 1 18351 0 0
+/kiitelabs.com/wp-admin/ 2 95106 0 0
+/wp-admin/ 1 47232 0 0
+/wp-admin/customize.php 2 515215 0 0
+/embedded-systems/ 1 18667 0 0
+/happy-independence-day/ 1 17174 0 0
+/kiitelabs.com/wp-content/themes/accesspress-parallax/fonts/glyphicons-halflings-regular.woff2 1 18028 0 1
+/reset-your-password/ 1 15407 0 0
+/category/blog-android/ 1 16165 0 1
+/communication/ 1 16847 0 0
+/happy-diwali/ 1 16853 0 0
+/happy-teachers-day/ 1 16952 0 0
+/myths-about-your-cv/ 1 21181 0 0
+/why-is-ai-future-of-it-industry/ 1 20812 0 0
+/why-iot/ 1 19526 0 0
+/team/ 1 75143 0 0
+/networking/ 1 18871 0 0
+/kiitelabs.com/blogs/ 2 52394 0 0
+/android/ 2 36377 0 0
+/courses/ 2 105234 1 1
+/kiitelabs.com/wp-admin/post.php 1 119905 0 0
+/kiitelabs.com/wp-includes/js/tinymce/wp-tinymce.php 2 380546 0 0
+/download-android-studio/ 1 16784 0 0
+END_SIDER

@@ -1,0 +1,1881 @@
+# Webalizer V2.23-08 Incremental Data - 07/20/2018 10:02:02
+2018 7 20 10 2 2
+9375 9066 185 452 69 76 466825358 459 197 0
+6 3 733 1 20
+517 499 33685630 37 39 29
+32 27 339224 9 7 6
+83 81 4013909 11 8 4
+73 70 3952216 6 9 4
+76 72 4890869 8 11 6
+25 24 348057 6 12 2
+555 541 44268698 19 74 16
+88 84 4007385 8 4 4
+236 230 11867275 13 22 8
+128 125 4922986 14 11 6
+622 611 66668590 20 51 16
+28 27 157651 12 5 4
+1124 1101 71002343 19 49 12
+3106 2976 109515839 29 63 20
+1958 1888 49891410 26 38 23
+235 231 12117705 24 17 11
+363 356 43470780 19 27 15
+63 63 1394936 14 4 4
+52 49 269092 20 7 6
+11 11 40763 6 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+68 66 1129705 6
+22 20 387474 4
+22 21 87631 4
+78 73 2211989 6
+921 877 45271716 35
+610 576 19303164 5
+149 148 22235005 10
+404 342 11438382 21
+45 44 607148 4
+151 151 8258586 19
+156 153 16724915 21
+744 731 17953917 10
+825 824 25830925 5
+412 401 19170736 26
+299 292 19871001 32
+91 89 4346046 5
+808 799 49512227 53
+640 617 38662507 62
+1078 1037 60474285 60
+588 578 33383895 10
+697 679 47776999 28
+271 270 13676415 5
+290 274 8458754 24
+6 4 51936 4
+0
+0
+0
+9066
+0
+0
+0
+0
+0
+6
+0
+69
+114
+0
+99
+0
+0
+0
+0
+0
+1
+19
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/wp-content/themes/accesspress-parallax/js/jquery.actual.min.js
+0 65 0 72064 0 0
+/wp-content/uploads/2017/10/asmita.jpg
+0 9 0 1997550 0 0
+/wp-content/uploads/2017/10/poster_networking-534x450.png
+0 39 0 5702280 0 0
+/wp-content/uploads/2017/10/tushar.jpg
+0 9 0 2429802 0 0
+/wp-content/uploads/2017/10/kiit_soe-300x48.png
+0 3 0 57477 0 0
+/wp-content/uploads/2017/11/CV-graphic-900x300.png
+0 1 0 68325 0 0
+/wp-content/themes/accesspress-parallax/woocommerce/ap-parallax-style.css
+0 76 0 437100 0 0
+/.well-known/pki-validation/2D4F55CD4BDD8902EAEC54A50F9F7FBA.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/kaushal-300x300.jpg
+0 4 0 86060 0 0
+/wp-content/themes/accesspress-parallax/css/mystyle.css
+0 81 0 242353 0 0
+/wp-content/uploads/2017/10/avnish-900x300.jpg
+0 1 0 33973 0 0
+/wp-content/uploads/2017/10/yash-300x300.jpg
+0 3 0 46140 0 0
+/wp-content/uploads/2017/10/prakashkumar-300x300.jpg
+0 3 0 36723 0 0
+/wp-content/uploads/2017/10/sagnik.jpg
+0 9 0 1812348 0 0
+/wp-content/uploads/2017/10/soumyadeb.jpg
+0 12 0 2809668 0 0
+/wp-content/uploads/2017/10/vibhusita.jpg
+0 9 0 2458044 0 0
+/wp-content/themes/accesspress-parallax/js/jquery.scrollTo.min.js
+0 64 0 154035 0 0
+/iot/
+0 6 0 110106 0 0
+/why-iot/
+0 1 0 19526 0 0
+/wp-content/themes/accesspress-parallax/inc/options-framework/images/demo-btn.png
+0 1 0 1743 0 0
+/wp-admin/themes.php
+0 1 0 118745 0 0
+/wp-content/uploads/2017/10/20881967_833738910124602_7646102384470401024_n-300x300.jpg
+0 3 0 59400 0 0
+/wp-content/uploads/2017/10/nirmalya-900x300.jpg
+0 1 0 30083 0 0
+/wp-content/uploads/2017/10/iot_blog_icon-300x188.jpg
+0 3 0 46047 0 0
+/wp-content/uploads/2017/10/prakashkumar-640x300.jpg
+0 1 0 18946 0 0
+/wp-admin/update-core.php
+0 1 0 35275 0 0
+/wp-content/uploads/2017/10/shubhamanand-380x380.jpg
+0 2 0 34606 0 0
+/wp-content/uploads/2017/10/akash-900x300.jpg
+0 1 0 48521 0 0
+/wp-content/uploads/2017/10/pranshoo.jpg
+0 12 0 5125944 0 0
+/wp-content/uploads/2017/10/prakhar.jpg
+0 9 0 1325556 0 0
+/wp-content/uploads/2017/10/abhinav-900x300.jpg
+0 1 0 23529 0 0
+/wp-content/uploads/2017/10/tushar-380x380.jpg
+0 1 0 34203 0 0
+/wp-content/uploads/2017/10/sharan-380x380.jpg
+0 2 0 41768 0 0
+/wp-content/uploads/2017/10/asmita-873x300.jpg
+0 1 0 41799 0 0
+/wp-admin/upload.php
+0 1 0 77936 0 0
+/wp-content/uploads/2017/11/Code_is_poetry_wallpaper_by_pixelsoul-900x300.png
+0 2 0 266426 0 0
+/wp-content/uploads/2017/10/poster_communication-200x300.jpg
+0 3 0 41484 0 0
+/wp-content/uploads/2017/11/Code_is_poetry_wallpaper_by_pixelsoul.png
+0 4 0 956884 0 0
+/wp-content/uploads/2017/10/kaustav-380x380.jpg
+0 2 0 59800 0 0
+/wp-content/themes/accesspress-parallax/images/down-arrow.png
+0 28 0 33628 0 0
+/wp-content/uploads/2017/10/poster_iot-534x450.jpg
+0 42 0 1201136 0 0
+/wp-content/uploads/2017/10/sharan.jpg
+0 9 0 1756611 0 0
+/wp-content/uploads/2017/10/prakashkumar-380x380.jpg
+0 2 0 33940 0 0
+/wp-content/uploads/2017/11/shutterstock_244931722-634x0-c-default-634x300.jpg
+0 1 0 54392 0 0
+/wp-content/themes/accesspress-parallax/inc/options-framework/images/ico-delete.png
+0 1 0 715 0 0
+/wp-content/uploads/2017/10/poster_embedded-200x300.jpg
+0 3 0 48210 0 0
+/class-schedule/
+0 1 0 16671 1 1
+/wp-content/uploads/2017/10/risabh-380x380.jpg
+0 2 0 55896 0 0
+/wp-content/uploads/2017/11/IoT-300x169.jpg
+0 3 0 37986 0 0
+/wp-content/uploads/2017/10/iot_slider.jpg
+0 47 0 17260948 0 0
+/wp-content/uploads/2017/10/mrinal.jpg
+0 9 0 959886 0 0
+/wp-content/uploads/2017/10/krishnesh-300x300.jpg
+0 3 0 45000 0 0
+/.well-known/pki-validation/BA2C3280546F69C78CA2F0A803D3E774.txt
+0 1 0 64 0 0
+/wp-includes/js/thickbox/thickbox.css
+0 10 0 21240 0 0
+/wp-content/uploads/2017/10/shubhamanand-873x300.jpg
+0 1 0 26755 0 0
+/wp-content/uploads/2017/10/sandipan-300x300.jpg
+0 3 0 49545 0 0
+/wp-content/uploads/2017/10/vivek.jpg
+0 10 0 3471661 0 0
+/wp-content/uploads/2017/10/akshat_sharma.jpg
+0 9 0 3358449 0 0
+/wp-content/themes/accesspress-parallax/js/bootstrap.min.js
+0 65 0 2370880 0 0
+/wp-content/uploads/2017/10/gmail.png
+0 13 0 9191 0 0
+/wp-content/uploads/2017/11/shutterstock_244931722-634x0-c-default-480x300.jpg
+0 38 0 1398415 0 0
+/wp-admin/load-scripts.php
+0 65 0 4157560 0 0
+/hiddenkaushal-kishore/
+0 2 0 41455 1 1
+/wp-admin/images/spinner.gif
+0 6 0 16648 0 0
+/wp-content/uploads/2017/11/IoT.jpg
+0 4 0 1790512 0 0
+/wp-content/uploads/2017/10/krishnesh-846x300.jpg
+0 1 0 27739 0 0
+/android/
+0 18 0 326371 4 5
+/wp-content/uploads/2017/10/gaurav-300x300.jpg
+0 3 0 32205 0 0
+/wp-includes/images/spinner-2x.gif
+0 1 0 8536 0 0
+/wp-content/uploads/2017/10/gaurav.jpg
+0 9 0 186201 0 0
+/wp-content/uploads/2017/10/communicationback_1-300x225.jpg
+0 3 0 29346 0 0
+/wp-content/uploads/2017/10/tanya-900x300.jpg
+0 1 0 34376 0 0
+/wp-content/uploads/2017/10/tanmay-900x300.jpg
+0 1 0 50167 0 0
+/wp-content/uploads/2017/10/sandipan-873x300.jpg
+0 1 0 34981 0 0
+/wp-content/uploads/2017/10/shalika-873x300.jpg
+0 1 0 35572 0 0
+/wp-includes/js/tinymce/wp-tinymce.php
+0 6 0 1202028 0 0
+/wp-content/uploads/2017/10/krishnesh.jpg
+0 9 0 1597572 0 0
+/wp-content/uploads/2017/10/prakhar-873x300.jpg
+0 1 0 21559 0 0
+/.well-known/pki-validation/62DFE4101D61EC569F87A77B6B2A4321.txt
+0 1 0 64 0 0
+/wp-admin/post.php
+0 380 0 45557766 0 0
+/wp-content/uploads/2017/10/shreya_singh.jpg
+0 9 0 3574485 0 0
+/wp-content/uploads/2017/10/java_slider-300x184.jpg
+0 3 0 42021 0 0
+/wp-content/uploads/2017/10/poster_android-534x450.jpg
+0 38 0 1844561 0 0
+/wp-content/themes/accesspress-parallax/js/mystyle.js
+0 70 0 83357 0 0
+/wp-content/uploads/2017/10/poster_android-200x300.jpg
+0 3 0 60531 0 0
+/wp-content/uploads/2017/10/pallav-380x380.jpg
+0 1 0 22791 0 0
+/wp-content/uploads/2017/10/embedded_slider-300x169.jpg
+0 3 0 20694 0 0
+/wp-content/themes/accesspress-parallax/js/jquery.nav.js
+0 64 0 334278 0 0
+/.well-known/pki-validation/C115400584B18AB8E1A0A30704D2E350.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/4873FD7FE3360F39643822FFDECC47BF.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/shubham-380x380.jpg
+0 2 0 62712 0 0
+/wp-content/themes/accesspress-parallax/screenshot.png
+0 1 0 1589123 0 0
+/wp-content/themes/accesspress-parallax/css/fontawesome/css/font-awesome.min.css
+0 77 0 2356000 0 0
+/wp-includes/wlwmanifest.xml
+0 1 0 1045 0 0
+/wp-includes/js/tinymce/skins/wordpress/wp-content.css
+0 3 0 26754 0 0
+/wp-includes/css/editor.min.css
+0 7 0 168612 0 0
+/wp-content/uploads/2017/10/kaushal-900x300.jpg
+0 2 0 64636 0 0
+/wp-content/themes/accesspress-parallax/css/editor-style.css
+0 10 0 37959 0 0
+/wp-content/uploads/2017/10/Web-Developer-Wallpaper-Code-by-PlusJack-on-DeviantArt-300x169.jpg
+0 3 0 13206 0 0
+/.well-known/pki-validation/8BD6C1718813ADC7E778986B9AFC7E26.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/aakriti-380x380.jpg
+0 1 0 18216 0 0
+/.well-known/pki-validation/D2177E178F50E2880B8C1C66D6A26416.txt
+0 1 0 64 0 0
+/why-we-code-🤔🤔🤔/
+0 4 0 95600 1 0
+/wp-content/uploads/2017/11/Logo1_1-1-150x90.png
+0 3 0 29535 0 0
+/wp-content/uploads/2017/10/rishi-380x380.jpg
+0 1 0 23932 0 0
+/wp-content/uploads/2017/10/krishnesh-380x380.jpg
+0 2 14953078003766210101 42300 0 0
+/register/
+0 2 7162249965403792686 40494 1 1
+/.well-known/pki-validation/F602766AA66BE957D4E17F0059183D01.txt
+0 1 2 64 0 0
+/wp-content/uploads/2017/10/web_slider-300x225.png
+0 3 8732044745014602851 66513 0 0
+/wp-content/uploads/2017/10/abhinav.jpg
+0 9 7308548589170341682 2238813 0 0
+/wp-content/themes/accesspress-parallax/inc/options-framework/js/options-custom.js
+0 1 100305062986041 3384 0 0
+/wp-content/uploads/2017/10/shalika-380x380.jpg
+0 2 3329621586808550449 62238 0 0
+/wp-content/uploads/2017/10/tanya-300x300.jpg
+0 6 98 120432 0 0
+/wp-admin/
+0 19 86753877683418926 922247 4 8
+/download-android-studio/
+0 2 0 33568 1 1
+/wp-content/uploads/2017/10/vibhusita-300x300.jpg
+0 3 0 59763 0 0
+/wp-content/uploads/2017/11/CV-graphic-300x200.png
+0 3 0 84729 0 0
+/wp-content/uploads/2017/10/shinjini-300x300.jpg
+0 3 0 61638 0 0
+/wp-content/uploads/2017/10/asmita-380x380.jpg
+0 1 0 22364 0 0
+/.well-known/pki-validation/5244F2719E1F63D10D682A1C8F0E68A9.txt
+0 1 0 64 0 0
+/hiddenshubham-chand/
+0 1 0 16633 1 1
+/wp-content/uploads/2017/10/prakash.jpg
+0 9 0 2103309 0 0
+/wp-content/uploads/2017/10/tanya.jpg
+0 8 0 2993352 0 0
+/wp-admin/load-styles.php
+0 29 0 2137396 0 0
+/wp-content/uploads/2017/10/shalika.jpg
+0 8 0 1898472 0 0
+/hiddenpallav-prince/
+0 1 0 24955 0 0
+/wp-content/uploads/2017/11/bigstock-Close-up-of-human-eye-on-digit-108692891-1-300x160.jpg
+0 3 0 43512 0 0
+/web-development/
+0 8 0 146136 0 1
+/wp-content/uploads/2017/10/soumyadeb-380x380.jpg
+0 2 0 54822 0 0
+/wp-content/uploads/2017/10/nirmalya.jpg
+0 9 0 3796749 0 0
+/wp-admin/users.php
+0 5 0 215450 0 0
+/wp-content/uploads/2017/10/pranshoo-900x300.jpg
+0 2 0 103522 0 0
+/wp-admin/edit-tags.php
+0 3 0 202402 0 0
+/wp-content/uploads/2017/10/back3-300x208.jpg
+0 3 0 39045 0 0
+/wp-content/uploads/2017/10/shinjini-873x300.jpg
+0 1 0 46941 0 0
+/wp-content/uploads/2017/10/abhishek-380x380.jpg
+0 1 0 21556 0 0
+/.well-known/pki-validation/1CAFA2852C97F0DD7DFFE3AAFA8835C4.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/vivek-900x300.jpg
+0 1 0 37733 0 0
+/wp-content/uploads/2017/10/abhinav-380x380.jpg
+0 1 0 19342 0 0
+/wp-includes/js/zxcvbn.min.js
+0 2 0 1644404 0 0
+/wp-content/uploads/2017/10/akshat_sharma-380x380.jpg
+0 1 0 37248 0 0
+/favicon.ico
+0 8 0 0 0 0
+/wp-content/uploads/2017/10/poster_java-200x300.jpg
+0 3 0 41835 0 0
+/wp-content/uploads/2017/10/abhiram-380x380.jpg
+0 2 0 62842 0 0
+/wp-content/uploads/2017/11/Code_is_poetry_wallpaper_by_pixelsoul-480x300.png
+0 37 0 2483388 0 0
+/wp-content/uploads/2017/10/abhiram-562x300.jpg
+0 1 0 33953 0 0
+/wp-content/uploads/2017/10/tushar-873x300.jpg
+0 1 0 48277 0 0
+/wp-includes/js/imgareaselect/imgareaselect.css
+0 8 0 3950 0 0
+/wp-content/uploads/2017/10/java-logo-300x169.png
+0 3 0 65754 0 0
+/wp-content/uploads/2017/10/yash-900x300.jpg
+0 1 0 33301 0 0
+/wp-content/uploads/2017/10/risabh-300x300.jpg
+0 3 0 59802 0 0
+/wp-content/uploads/2017/11/top-4-cv-writing-tips-300x211.jpg
+0 4 0 53460 0 0
+/wp-content/uploads/2017/10/avnish-380x380.jpg
+0 1 0 23200 0 0
+/hiddenpranshoo-verma/
+0 3 0 58541 1 1
+/wp-content/uploads/2017/10/abhishek-900x300.jpg
+0 1 0 30704 0 0
+/wp-includes/css/admin-bar.min.css
+0 2 0 41252 0 0
+/wp-content/uploads/2017/10/insta.png
+0 4 0 3012 0 0
+/wp-content/themes/accesspress-parallax/css/jquery.bxslider.css
+0 76 0 286500 0 0
+/wp-content/themes/accesspress-parallax/images/overlay4.png
+0 37 0 5635 0 0
+/wp-content/uploads/2017/10/kaustav-873x300.jpg
+0 1 0 39195 0 0
+/wp-content/uploads/2017/10/tanya-380x380.jpg
+0 1 0 28372 0 0
+/hiddenshalika-singh/
+0 1 0 16795 1 1
+/wp-content/uploads/2017/10/21272534_843139472517879_8866381946847392640_n-300x200.jpg
+0 3 0 45615 0 0
+/wp-includes/images/uploader-icons.png
+0 1 0 1556 0 0
+/wp-content/themes/accesspress-parallax/fonts/glyphicons-halflings-regular.woff2
+0 8 0 144224 0 0
+/wp-content/uploads/2017/10/neha-380x380.jpg
+0 1 0 28129 0 0
+/wp-content/uploads/2017/10/shubham_chand-300x300.jpg
+0 3 0 33603 0 0
+/wp-content/themes/accesspress-parallax/css/bootstrap.min.css
+0 76 0 9090000 0 0
+/wp-content/uploads/2017/10/poster_iot-200x300.jpg
+0 3 0 36369 0 0
+/wp-content/uploads/2017/10/prakash-380x380.jpg
+0 2 0 56120 0 0
+/wp-includes/js/tinymce/skins/lightgray/skin.min.css
+0 4 0 118212 0 0
+/wp-json/oembed/1.0/embed
+0 1 0 2174 0 0
+/wp-content/uploads/2017/10/rishi-900x300.jpg
+0 2 0 53992 0 0
+/hiddensharan-agarwal/
+0 1 0 16784 0 0
+/wp-content/themes/accesspress-parallax/inc/options-framework/images/upgrade-bottom.jpg
+0 1 0 86712 0 0
+/wp-content/themes/accesspress-parallax/css/fontawesome/fonts/fontawesome-webfont.woff2
+0 45 0 3303526 0 0
+/.well-known/pki-validation/8D266189FDB26D3C86945279521DBBDC.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/shubham.jpg
+0 12 0 2802216 0 0
+/wp-content/uploads/2017/10/yash-380x380.jpg
+0 2 0 43594 0 0
+/wp-content/uploads/2017/10/avnish-300x300.jpg
+0 3 0 48777 0 0
+/wp-content/uploads/2017/10/sagnikghosh-380x380.jpg
+0 2 0 71024 0 0
+/wp-content/uploads/2017/10/mrinal-638x300.jpg
+0 1 0 32204 0 0
+/wp-content/themes/accesspress-parallax/js/jquery.easing.min.js
+0 64 0 349965 0 0
+/wp-content/uploads/2017/10/pranshoo-380x380.jpg
+0 1 0 36362 0 0
+/wp-content/uploads/2017/10/github.png
+0 13 0 14573 0 0
+/.well-known/pki-validation/4AF4874B8190A232AFF4720389AACEAE.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/11/cropped-cropped-cropped-Logo1-32x32.png
+0 38 0 55692 0 0
+/wp-content/uploads/2017/10/icons8-Laptop-48.png
+0 41 0 22360 0 0
+/wp-content/uploads/2017/10/21272534_843139472517879_8866381946847392640_n.jpg
+0 4 0 303852 0 0
+/wp-content/uploads/2017/10/icons8-Certificate-48.png
+0 41 0 26840 0 0
+/wp-content/uploads/2017/10/tanmay-380x380.jpg
+0 2 0 82224 0 0
+/wp-content/uploads/2017/10/sharan-873x300.jpg
+0 1 0 33332 0 0
+/wp-content/uploads/2017/11/cropped-Logo1-300x105.png
+0 3 0 63984 0 0
+/wp-content/uploads/2017/10/pritam-873x300.jpg
+0 2 0 77630 0 0
+/wp-includes/images/media/default.png
+0 3 0 504 0 0
+/wp-content/uploads/2017/11/CV-graphic-1-300x200.png
+0 3 0 84729 0 0
+/class-schedule-2/
+0 1 0 16559 0 0
+/wp-content/uploads/2017/10/sagnik-300x300.jpg
+0 5 0 64120 0 0
+/wp-admin/edit.php
+0 266 0 24837378 0 0
+/hiddenrishi-raj/
+0 2 0 49284 1 0
+/.well-known/pki-validation/0B906E2A63DB3D55E1183FDEB9B2CA5D.txt
+0 1 0 64 0 0
+/wp-content/themes/accesspress-parallax/css/nivo-lightbox.css
+0 76 0 617625 0 0
+/wp-content/uploads/2017/10/shreya_singh-900x300.jpg
+0 1 0 34421 0 0
+/.well-known/pki-validation/E96C103980EC0B002765D549431DAFBB.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/aakriti-300x300.jpg
+0 3 0 38814 0 0
+/.well-known/pki-validation/44A7C57E8928DEAA2B1F8AB4D4565E90.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/shubham_chand.jpg
+0 8 0 1134528 0 0
+/wp-includes/css/dashicons.min.css
+0 5 0 231820 0 0
+/.well-known/pki-validation/A4E9A387A4B474CEE37570C4A47FE846.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/BBD0E2361D11ABA1FED20829E3A062AD.txt
+0 1 0 64 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.min.css
+0 8 0 28154 0 0
+/wp-content/uploads/2017/10/pritam-300x300.jpg
+0 3 0 72753 0 0
+/wp-content/uploads/2017/10/akshat_sharma-300x300.jpg
+0 3 0 76092 0 0
+/.well-known/pki-validation/7946C9DD11E435D7E38B117B098D05D4.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/shinjini.jpg
+0 8 0 2299384 0 0
+/wp-content/uploads/2017/10/pranshoo-300x300.jpg
+0 4 0 99012 0 0
+/wp-content/uploads/2017/11/cropped-cropped-cropped-Logo1-300x300.png
+0 3 0 121161 0 0
+/category/team/
+0 2 0 154510 2 1
+/wp-content/uploads/2017/10/shubham_chand-380x380.jpg
+0 1 0 16174 0 0
+/wp-includes/js/comment-reply.min.js
+0 14 0 15092 0 0
+/wp-content/uploads/2017/10/rishi.jpg
+0 8 0 497504 0 0
+/wp-admin/images/resize-2x.gif
+0 1 0 234 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 67 0 663696 0 0
+/wp-content/uploads/2017/11/CV-graphic-480x300.png
+0 38 0 1922187 0 0
+/wp-content/uploads/2017/10/android_blog_icon-200x300.jpg
+0 3 0 20598 0 0
+/wp-content/uploads/2017/10/icons8-Sheet-of-Paper-48.png
+0 41 0 18440 0 0
+/wp-content/uploads/2017/10/networking_slider.jpg
+0 40 0 7825038 0 0
+/wp-content/themes/accesspress-parallax/css/animate.css
+0 76 0 4280625 0 0
+/wp-content/uploads/2017/10/neha-900x300.jpg
+0 1 0 37118 0 0
+/.well-known/pki-validation/E9109462F279612BBDD1113B4831A069.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/abhishek-300x300.jpg
+0 3 0 45714 0 0
+/wp-admin/post-new.php
+0 49 0 5217355 0 0
+/wp-content/uploads/2017/10/kaustav.jpg
+0 9 0 2102634 0 0
+/wp-content/uploads/2017/10/asmita-300x300.jpg
+0 3 0 46254 0 0
+/wp-content/uploads/2017/10/smriti-300x300.jpg
+0 5 0 99135 0 0
+/wp-admin/upgrade.php
+0 1 0 1 0 0
+/wp-content/uploads/2017/10/art_of_giving.jpg
+0 1 0 1821473 0 0
+/notices/
+0 3 0 47967 0 0
+/wp-content/uploads/2017/10/smriti-380x380.jpg
+0 1 0 29001 0 0
+/.well-known/pki-validation/7BF4865A41CF75E26F1AC491603137F6.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/icons8-Headphones-48.png
+0 41 0 36200 0 0
+/wp-content/uploads/2017/10/gaurav-380x380.jpg
+0 2 0 30908 0 0
+/wp-content/uploads/2017/10/poster_web-534x450.jpg
+0 38 0 1643318 0 0
+/wp-content/uploads/2017/10/shushantkumar-380x380.jpg
+0 1 0 36934 0 0
+/wp-admin/tools.php
+0 1 0 35802 0 0
+/communication/
+0 3 0 50541 0 0
+/blogs/
+0 8 0 204800 0 3
+/wp-content/uploads/2017/11/Code_is_poetry_wallpaper_by_pixelsoul-300x188.png
+0 3 0 85020 0 0
+/wp-content/uploads/2017/10/risabh-900x300.jpg
+0 1 0 31626 0 0
+/wp-content/uploads/2017/10/poster_web-200x300.jpg
+0 3 0 48531 0 0
+/wp-content/uploads/2017/10/DSC6028-900x300.jpg
+0 1 0 25304 0 0
+/wp-content/uploads/2017/10/soumyadeb-300x300.jpg
+0 3 0 57732 0 0
+/wp-content/uploads/2017/10/20881967_833738910124602_7646102384470401024_n.jpg
+0 4 0 348608 0 0
+/wp-content/uploads/2017/11/cropped-cropped-Logo1.png
+0 190 0 45923976 0 0
+/wp-content/uploads/2017/10/neha-300x300.jpg
+0 3 0 58668 0 0
+/wp-login.php
+0 141 0 463905 0 0
+/.well-known/pki-validation/44570BBB8E7BF861DF07E69548BA1A02.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/facebook.png
+0 13 0 6435 0 0
+/.well-known/pki-validation/D99421E653442C86BF0E3C7893171F32.txt
+0 1 2 64 0 0
+/wp-content/uploads/2017/10/kaushal.jpg
+0 9 0 4492602 0 0
+/wp-content/uploads/2017/10/akash-380x380.jpg
+0 2 0 62108 0 0
+/wp-content/uploads/2017/10/shubham_chand-900x300.jpg
+0 1 0 25065 0 0
+/wp-content/uploads/2017/10/pallav-300x300.jpg
+0 3 0 49701 0 0
+/wp-content/uploads/2017/10/abhiram-300x300.jpg
+0 3 0 65886 0 0
+/wp-content/themes/accesspress-parallax/css/images/bx_loader.gif
+0 37 0 308916 0 0
+/wp-content/themes/accesspress-parallax/js/parallax.js
+0 65 0 117568 0 0
+/wp-content/uploads/2017/10/android-300x169.jpg
+0 3 0 22083 0 0
+/wp-content/uploads/2017/10/kaustav-300x300.jpg
+0 3 0 63675 0 0
+/wp-admin/user-edit.php
+0 1 0 41819 0 0
+/wp-content/themes/accesspress-parallax/js/jquery.fitvids.js
+0 64 0 180432 0 0
+/.well-known/pki-validation/A6857ED2115A79DA949952B16AA99523.txt
+0 1 0 64 0 0
+/wp-content/themes/accesspress-parallax/js/jquery.bxslider.min.js
+0 64 0 1483209 0 0
+/wp-content/uploads/2017/10/shushant-300x300.jpg
+0 4 0 49288 0 0
+/.well-known/pki-validation/10BADCAA3F6500F7DAC07E235D4F94FC.txt
+0 1 0 64 0 0
+/wp-content/themes/accesspress-parallax/js/SmoothScroll.js
+0 64 0 896112 0 0
+/wp-includes/js/jquery/jquery.js
+0 68 0 6511328 0 0
+/wp-content/themes/accesspress-parallax/css/fontawesome/fonts/fontawesome-webfont.ttf
+0 1 0 165548 0 0
+/wp-content/themes/accesspress-parallax/images/menu.png
+0 15 0 15974 0 0
+/.well-known/pki-validation/BF6FA8F195904D7C1D1FF3EFFE098079.txt
+0 1 0 64 0 0
+/wp-content/themes/accesspress-parallax/images/portfolio-text-bg.png
+0 37 0 40716 0 0
+/wp-content/uploads/2017/10/poster_embedded-534x450.jpg
+0 38 0 1420282 0 0
+/wp-content/uploads/2017/10/back4.jpg
+0 69 0 7163936 0 0
+/wp-content/uploads/2017/10/java_slider.jpg
+0 40 0 16471455 0 0
+/wp-content/uploads/2017/10/back1-300x143.jpg
+0 3 0 22992 0 0
+/wp-content/uploads/2017/10/shushantkumar-300x300.jpg
+0 3 0 77100 0 0
+/wp-content/uploads/2017/10/gaurav-538x300.jpg
+0 1 0 15671 0 0
+/wp-content/themes/accesspress-parallax/inc/options-framework/css/optionsframework.css
+0 1 0 8714 0 0
+/wp-content/uploads/2017/10/shubham-300x300.jpg
+0 3 0 65997 0 0
+/.well-known/pki-validation/ED80F3608B99F461CDE722432173EEF7.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/pritam.jpg
+0 9 0 2321586 0 0
+/wp-includes/js/wp-embed.min.js
+0 67 0 92268 0 0
+/wp-content/themes/accesspress-parallax/inc/options-framework/images/logo.png
+0 1 0 15442 0 0
+/wp-content/uploads/2017/10/tushar-300x300.jpg
+0 3 0 71031 0 0
+/wp-content/themes/accesspress-parallax/inc/options-framework/images/logo-side.jpg
+0 1 0 20053 0 0
+/wp-content/uploads/2017/10/vibhusita-380x380.jpg
+0 2 0 59030 0 0
+/.well-known/pki-validation/0C7C5460500D13A394E4DC873ECD8507.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/maleavatar-150x150.png
+0 3 0 77253 0 0
+/wp-includes/js/wp-emoji-release.min.js
+0 74 0 845965 0 0
+/team/
+0 17 0 1288313 4 3
+/wp-content/themes/accesspress-parallax/images/overlay3.png
+0 37 0 33372 0 0
+/wp-content/uploads/2017/10/mrinal-300x300.jpg
+0 3 0 48927 0 0
+/wp-content/uploads/2017/10/mrinal-380x380.jpg
+0 1 0 23353 0 0
+/wp-content/uploads/2017/10/linkedin.png
+0 13 0 8398 0 0
+/wp-content/uploads/2017/10/nirmalya-300x300.jpg
+0 3 0 52497 0 0
+/wp-content/uploads/2017/10/22540194_862594097239083_5546339267791075268_n-300x300.jpg
+0 3 0 48378 0 0
+/wp-content/uploads/2017/10/tanmay.jpg
+0 12 0 5224836 0 0
+/.well-known/pki-validation/20382D961807660BD49F34D4B521C8C6.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/shreya_singh-380x380.jpg
+0 2 0 60214 0 0
+/wp-content/uploads/2017/10/sagnikghosh-873x300.jpg
+0 2 0 91826 0 0
+/wp-includes/js/tinymce/skins/lightgray/content.min.css
+0 3 0 10491 0 0
+/wp-content/uploads/2017/10/abhishek.jpg
+0 9 0 4458969 0 0
+/hiddenpritam-chowdhury/
+0 1 0 24979 0 0
+/wp-content/uploads/2017/10/networking_blog_icon-300x169.jpg
+0 3 0 52965 0 0
+/wp-includes/images/spinner.gif
+0 3 0 12486 0 0
+/wp-content/uploads/2017/10/communication_slider.jpg
+0 1 0 288069 0 0
+/wp-content/themes/accesspress-parallax/js/nivo-lightbox.min.js
+0 64 0 480690 0 0
+/.well-known/pki-validation/C754A71FC10BAB0CF4945095DFBDA193.txt
+0 1 0 64 0 0
+/hiddenshinjini-saha/
+0 2 0 33532 2 0
+/wp-includes/js/thickbox/loadingAnimation.gif
+0 9 0 91428 0 0
+/xmlrpc.php
+0 1 0 425 0 0
+/wp-content/uploads/2017/10/sagnikghosh-300x300.jpg
+0 3 0 74436 0 0
+/wp-content/uploads/2017/10/femaleavatar-150x150.png
+0 3 0 82191 0 0
+/wp-content/uploads/2017/10/vibhusita-873x300.jpg
+0 1 0 42429 0 0
+/author/sagnikpaul28/
+0 1 0 123575 0 0
+/.well-known/pki-validation/35F00678F500596903DF5CE67D07DD46.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/20189725_825265120971981_8048851030047195136_n.jpg
+0 4 0 42996 0 0
+/wp-content/uploads/2017/10/back2-300x139.jpg
+0 3 0 15309 0 0
+/wp-content/uploads/2017/10/shushantkumar.jpg
+0 9 0 3950433 0 0
+/wp-content/uploads/2017/10/embedded-300x169.jpg
+0 3 0 40785 0 0
+/wp-content/uploads/2017/11/cropped-cropped-cropped-Logo1-192x192.png
+0 30 0 570372 0 0
+/wp-admin/images/wordpress-logo.svg
+0 10 0 12168 0 0
+/wp-content/uploads/2017/10/embedded_blog_icon-300x188.jpg
+0 3 0 38736 0 0
+/wp-content/uploads/2017/10/shushant-873x300.jpg
+0 1 0 24077 0 0
+/wp-content/uploads/2017/10/pritam-380x380.jpg
+0 1 0 34397 0 0
+/wp-content/uploads/2017/10/abhiram.jpg
+0 9 0 1010754 0 0
+/wp-content/uploads/2017/10/risabh.jpg
+0 10 0 4715690 0 0
+/wp-content/uploads/2017/10/shubham-873x300.jpg
+0 1 0 37034 0 0
+/wp-content/themes/accesspress-parallax/welcome/js/welcome.js
+0 9 0 26971 0 0
+/wp-content/uploads/2017/11/blog_mesa-e1431187984547-300x120.jpg
+0 3 0 33627 0 0
+/embedded-systems/
+0 5 0 93151 0 0
+/wp-content/uploads/2017/10/vivek-300x300.jpg
+0 3 0 66747 0 0
+/wp-content/themes/accesspress-parallax/js/jquery.localScroll.min.js
+0 65 0 88896 0 0
+/
+0 207 0 5321551 147 42
+/wp-content/uploads/2017/10/22540194_862594097239083_5546339267791075268_n.jpg
+0 4 0 324368 0 0
+/wp-content/uploads/2017/10/sagnikghosh.jpg
+0 8 0 2249752 0 0
+/wp-content/themes/accesspress-parallax/inc/options-framework/js/ajax.js
+0 9 0 3540 0 0
+/wp-content/themes/accesspress-parallax/js/custom.js
+0 64 0 228249 0 0
+/top-cyber-attacks-around-the-globe/
+0 5 0 132055 4 2
+/wp-content/uploads/2017/11/cropped-cropped-Logo1-300x105.png
+0 3 0 63984 0 0
+/wp-content/uploads/2017/10/aakriti-900x300.jpg
+0 1 0 28724 0 0
+/wp-content/uploads/2017/10/poster_java-534x450.jpg
+0 38 0 1543640 0 0
+/wp-content/uploads/2017/10/web_slider.png
+0 45 0 2481292 0 0
+/wp-content/themes/accesspress-parallax/style.css
+0 76 0 3031878 0 0
+/wp-content/uploads/2017/10/abhinav-300x300.jpg
+0 3 0 40800 0 0
+/wp-content/uploads/2017/11/bigstock-Close-up-of-human-eye-on-digit-108692891-1.jpg
+0 4 0 2547496 0 0
+/wp-content/uploads/2017/10/DSC6028-300x300.jpg
+0 3 0 54306 0 0
+/wp-content/uploads/2017/10/iot_slider-300x169.jpg
+0 3 0 52263 0 0
+/contact-us/
+0 4 0 67592 1 1
+/wp-content/uploads/2017/10/sandipan-380x380.jpg
+0 1 0 23273 0 0
+/wp-content/uploads/2017/10/shubhamanand.jpg
+0 8 0 1265408 0 0
+/wp-content/uploads/2017/10/akash-300x300.jpg
+0 3 0 63582 0 0
+/wp-content/uploads/2017/10/aakriti.jpg
+0 10 0 3911870 0 0
+/wp-content/uploads/2017/10/pallav.jpg
+0 10 0 1913190 0 0
+/myths-about-your-cv/
+0 1 0 21181 0 0
+/wp-admin/images/spinner-2x.gif
+0 7 0 42680 0 0
+/wp-content/uploads/2018/01/KIIT-SOEE-Logo-300x112.png
+0 3 0 124629 0 0
+/wp-content/uploads/2017/10/sagnik-900x300.jpg
+0 2 0 49156 0 0
+/.well-known/pki-validation/96ECB01185B1BF8D9C4B51C0D22D0124.txt
+0 1 0 64 0 0
+/wp-content/themes/accesspress-parallax/welcome/css/welcome.css
+0 10 0 36040 0 0
+/hiddenembedded-systems-2/
+0 1 0 16658 1 0
+/wp-content/uploads/2017/10/web_blog_icon-300x120.jpg
+0 3 0 35379 0 0
+/wp-content/uploads/2017/10/nirmalya-380x380.jpg
+0 2 0 49344 0 0
+/wp-content/uploads/2017/10/shinjini-380x380.jpg
+0 1 0 30195 0 0
+/wp-content/uploads/2017/10/sandipan.jpg
+0 8 0 1799640 0 0
+/.well-known/pki-validation/91279D91A47AB42CE2FB96EB8AA6E8D8.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/poster_networking-200x300.png
+0 3 0 164970 0 0
+/wp-content/uploads/2017/11/shutterstock_244931722-634x0-c-default-300x200.jpg
+0 3 0 53271 0 0
+/wp-content/uploads/2017/10/DSC6028.jpg
+0 10 0 4652940 0 0
+/wp-content/uploads/2017/10/shushant.jpg
+0 9 0 1554552 0 0
+/wp-content/uploads/2017/10/shushantkumar-900x300.jpg
+0 1 0 45400 0 0
+/wp-content/uploads/2017/10/vivek-380x380.jpg
+0 2 0 62590 0 0
+/wp-content/uploads/2017/10/networkingback_1-300x169.jpg
+0 3 0 26502 0 0
+/.well-known/pki-validation/E282823940473C956FD63109E90E23E0.txt
+0 1 0 64 0 0
+/dashboard/
+0 10 0 164080 2 2
+/wp-includes/js/admin-bar.min.js
+0 2 0 14376 0 0
+/wp-content/themes/accesspress-parallax/css/fontawesome/fonts/fontawesome-webfont.woff
+0 16 0 1568384 0 0
+/wp-content/uploads/2018/01/KIIT-SOEE-Logo.png
+0 1 0 487853 0 0
+/wp-content/themes/accesspress-parallax/inc/options-framework/images/upgrade-top.jpg
+0 1 0 58140 0 0
+/.well-known/pki-validation/2BCEF7D8B701FFD21D1258E28A8654DF.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/11/cropped-cropped-cropped-Logo1-180x180.png
+0 9 0 161550 0 0
+/wp-content/uploads/2017/10/soumyadeb-873x300.jpg
+0 1 0 38828 0 0
+/wp-content/uploads/2017/10/smriti.jpg
+0 9 0 3266973 0 0
+/wp-content/uploads/2017/10/prakashkumar.jpg
+0 9 0 660033 0 0
+/wp-content/uploads/2017/10/prakhar-380x380.jpg
+0 2 0 31986 0 0
+/wp-content/uploads/2017/10/neha.jpg
+0 9 0 2778795 0 0
+/wp-content/uploads/2017/10/20189725_825265120971981_8048851030047195136_n-300x157.jpg
+0 3 0 19881 0 0
+/wp-includes/js/mediaelement/mediaelementplayer.min.css
+0 9 0 143017 0 0
+/.well-known/pki-validation/1EBA97769042F2D69D6F44FCA0F9879B.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/shushant-380x380.jpg
+0 2 0 34744 0 0
+/wp-content/themes/accesspress-parallax/css/responsive.css
+0 78 0 384923 0 0
+/.well-known/pki-validation/169983E60A7DD6DECCC19AF2C887D1BA.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/shubhamanand-300x300.jpg
+0 3 0 37383 0 0
+/robots.txt
+0 53 0 3551 0 0
+/wp-admin/theme-editor.php
+0 2 0 130589 0 0
+/wp-content/uploads/2017/10/embedded_slider.jpg
+0 40 0 5537649 0 0
+/networking/
+0 1 0 18871 0 0
+/wp-admin/profile.php
+0 1 0 41139 0 0
+/wp-content/uploads/2017/10/rishi-300x300.jpg
+0 4 0 70008 0 0
+/wp-content/uploads/2017/10/back3.jpg
+0 70 0 16082175 0 0
+/wp-content/uploads/2017/10/networking_slider-300x169.jpg
+0 3 0 36108 0 0
+/feed/
+0 1 0 92999 0 0
+/courses/
+0 2 0 99980 0 0
+/wp-content/themes/accesspress-parallax/inc/options-framework/images/logo-top.jpg
+0 1 0 16055 0 0
+/wp-content/uploads/2017/11/Logo1-300x88.png
+0 3 0 48012 0 0
+/wp-content/uploads/2017/10/communication_slider-300x200.jpg
+0 3 0 32967 0 0
+/wp-content/themes/accesspress-parallax/inc/options-framework/images/upgrade-btn.png
+0 1 0 2215 0 0
+/wp-admin/user-new.php
+0 2 0 63027 0 0
+/wp-content/uploads/2017/10/shreya_singh-300x300.jpg
+0 3 0 63267 0 0
+/wp-content/uploads/2017/10/prakhar-300x300.jpg
+0 3 0 34746 0 0
+/java/
+0 3 0 55878 1 0
+/wp-content/uploads/2017/10/art_of_giving-300x212.jpg
+0 3 0 31296 0 0
+/wp-content/uploads/2017/10/smriti-900x300.jpg
+0 1 0 46361 0 0
+/wp-includes/images/uploader-icons-2x.png
+0 1 0 3542 0 0
+/wp-content/uploads/2017/10/avnish.jpg
+0 8 0 1106520 0 0
+/wp-cron.php
+0 161 0 0 0 0
+/wp-admin/images/resize.gif
+0 3 0 70 0 0
+/wp-content/uploads/2017/10/akash.jpg
+0 9 0 2982258 0 0
+/wp-content/uploads/2017/10/java_blog_icon-300x188.jpg
+0 3 0 22830 0 0
+/wp-content/uploads/2017/10/kaushal-380x380.jpg
+0 1 0 30418 0 0
+/.well-known/pki-validation/F151BE404CF666949061ACBA5AC35C14.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/DSC6028-380x380.jpg
+0 1 0 25974 0 0
+/wp-content/uploads/2017/10/pallav-900x300.jpg
+0 2 0 54012 0 0
+/wp-content/uploads/2017/10/akshat_sharma-900x300.jpg
+0 1 0 52576 0 0
+/wp-content/uploads/2017/10/prakash-300x300.jpg
+0 3 0 59778 0 0
+/wp-admin/admin-ajax.php
+0 3246 0 7108784 0 0
+/wp-content/uploads/2017/10/back4-300x166.jpg
+0 3 0 26661 0 0
+/wp-content/uploads/2017/10/android_slider.jpg
+0 57 0 50314040 0 0
+/.well-known/pki-validation/9B41FD6BC42AA47580757CA2C56D4AE1.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/yash.jpg
+0 9 0 2131326 0 0
+/.well-known/pki-validation/4F8097627B5EBFE71F51934B1C962E93.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/android_slider-300x169.jpg
+0 3 0 34386 0 0
+/wp-content/uploads/2017/10/prakash-873x300.jpg
+0 1 0 34259 0 0
+/.well-known/pki-validation/7C861DFF8DF1786F84E8D8DCDA32E155.txt
+0 1 0 64 0 0
+/wp-content/uploads/2017/10/tanmay-300x300.jpg
+0 3 0 82746 0 0
+/wp-content/uploads/2017/11/thumb-1920-486293-300x169.png
+0 3 0 183060 0 0
+/wp-content/uploads/2017/11/cropped-Logo1_1-1-150x90.png
+0 3 0 29535 0 0
+/wp-content/uploads/2017/10/sagnik-380x380.jpg
+0 2 0 35372 0 0
+/wp-content/uploads/2017/10/shalika-300x300.jpg
+0 3 0 66438 0 0
+/wp-content/uploads/2017/11/shutterstock_244931722-634x0-c-default.jpg
+0 4 0 354492 0 0
+/wp-content/uploads/2017/10/sharan-300x300.jpg
+0 3 0 43431 0 0
+/wp-content/uploads/2017/11/CV-graphic.png
+0 4 0 75816 0 0
+/wp-content/themes/accesspress-parallax/inc/options-framework/js/media-uploader.js
+0 1 0 2943 0 0
+# End Of Table - urls
+# -sites- (monthly)
+173.252.124.122
+0 1 1 29296 0 0
+-
+host148-41-static.56-88-b.business.telecomitalia.it
+0 2 2 6552 0 0
+-
+144.2.2.50
+0 2 2 28142 1 1531300414
+/
+106.222.239.67
+0 123 121 16628669 1 1530982271
+/dashboard/
+178.176.112.254
+0 2 2 6552 0 0
+-
+109-252-82-185.nat.spd-mgts.ru
+0 2 2 6552 0 0
+-
+google-proxy-66-249-82-95.google.com
+0 48 48 3628419 0 0
+-
+47.15.102.122
+0 66 61 4003021 1 1531329609
+/dashboard/
+nsg-static-014.171.72.182.airtel.in
+0 85 84 7244761 1 1530986181
+/blogs/
+pool.sevtele.com
+0 2 2 6552 0 0
+-
+server77.hml.grapeshot.co.uk
+0 1 1 25968 1 1531780117
+/
+64.74.215.170
+0 18 18 254298 1 1531197841
+/
+google-proxy-66-249-82-64.google.com
+0 35 35 2555134 1 1531598989
+/
+157.41.193.121
+0 59 55 1126845 1 1531652844
+/wp-admin/
+60.243.163.152
+0 579 553 50668968 3 1531601623
+/wp-admin/
+61.95.254.10
+0 58 58 3857642 1 1531196045
+/
+157.41.222.159
+0 58 58 3857642 1 1531283385
+/
+crawl-66-249-69-112.googlebot.com
+0 2 2 21854 0 0
+-
+cpanelprod
+0 161 161 1 0 0
+-
+google-proxy-66-249-88-48.google.com
+0 14 14 344047 1 1530468293
+/why-we-code-🤔🤔🤔/
+47.29.3.11
+0 2 2 51936 1 1531402833
+/
+ec2-52-214-216-191.eu-west-1.compute.amazonaws.com
+0 2 1 25968 1 1531705884
+/
+47.15.120.52
+0 290 281 7558472 2 1531543046
+/hiddenpranshoo-verma/
+94.25.84.130
+0 2 2 6552 0 0
+-
+crawl-66-249-70-14.googlebot.com
+0 14 14 597131 0 0
+-
+176.59.203.22
+0 2 2 6552 0 0
+-
+static.172.27.99.88.clients.your-server.de
+0 1 1 16766 1 1531837011
+/hiddenshinjini-saha/
+h62-133-162-50.dyn.bashtel.ru
+0 2 2 6552 0 0
+-
+46.48.246.24
+0 2 2 6552 0 0
+-
+google-proxy-66-102-6-110.google.com
+0 6 6 122967 3 1532073735
+/
+159.203.5.161
+0 3 2 0 2 1531448486
+/
+google-proxy-66-102-6-112.google.com
+0 5 5 33742 1 1531725238
+/
+google-proxy-66-102-7-252.google.com
+0 18 18 1775567 1 1531725773
+/
+157.41.157.58
+0 11 8 230736 1 1531589316
+/wp-admin/
+47.15.89.197
+0 6 6 249328 1 1531575723
+/
+mm-31-203-45-37.grodno.dynamic.pppoe.byfly.by
+0 2 2 6552 0 0
+-
+crawl-66-249-64-2.googlebot.com
+0 4 2 134 2 1530541088
+/
+114.244.152.227
+0 1 1 25968 1 1530477211
+/
+157.41.191.109
+0 65 64 936516 1 1531652825
+/wp-admin/
+google-proxy-66-102-7-251.google.com
+0 23 23 1201956 0 0
+-
+185.53.44.90
+0 1 1 25968 1 1530601600
+/
+ec2-34-230-78-4.compute-1.amazonaws.com
+0 2 2 51936 1 1531196304
+/
+h62-133-162-75.dyn.bashtel.ru
+0 2 2 6552 0 0
+-
+167.99.214.122
+0 4 3 26102 1 1530702289
+/
+h94-75-1-133.dyn.bashtel.ru
+0 2 2 6552 0 0
+-
+crawl-66-249-75-24.googlebot.com
+0 3 2 134 1 1531626312
+/
+pool-77-222-108-68.is74.ru
+0 2 2 6552 0 0
+-
+xtp-41-ip136.atel76.ru
+0 2 2 6552 0 0
+-
+107.190.173.13
+0 2 1 25968 1 1530463922
+/
+google-proxy-66-249-82-66.google.com
+0 27 27 1437505 1 1531598989
+/
+14.139.212.226
+0 81 81 6265315 3 1531847680
+/
+183.66.230.22
+0 1 1 25968 1 1531758622
+/
+google-proxy-66-102-7-250.google.com
+0 15 15 859004 1 1531725774
+/
+client.yota.ru
+0 10 10 32760 0 0
+-
+218.241.108.76
+0 3 2 51936 2 1530560180
+/
+111.231.218.16
+0 58 58 3863536 1 1530640573
+/
+93.153.236.82
+0 4 4 13104 0 0
+-
+jobqueue-listener.jobqueue.netcraft.com-uab9283f67ee311e8af3fef4a838d6ab1u-digitalocean-2gb
+0 1 1 25968 1 1530703471
+/
+103.106.200.4
+0 475 468 14529837 7 1531898192
+/
+49.44.122.169
+0 59 58 3873985 1 1530468180
+/
+google-proxy-64-233-173-158.google.com
+0 4 0 0 4 1531847840
+/
+h95-110-56-145.dyn.bashtel.ru
+0 2 2 6552 0 0
+-
+157.41.150.100
+0 58 58 3888463 1 1531637902
+/
+31.13.114.212
+0 1 0 0 1 1531581860
+/
+59.97.159.235
+0 58 57 3933711 1 1531720605
+/
+85.94.0.104
+0 2 2 6552 0 0
+-
+178.176.112.18
+0 2 2 6552 0 0
+-
+38.100.21.69
+0 13 13 308857 1 1530870869
+/class-schedule-2/
+175.149.38.213
+0 1 1 25968 1 1530476816
+/
+23.250.105.171
+0 2 1 25968 1 1530981398
+/
+static.248.167.130.94.clients.your-server.de
+0 2 1 25968 1 1530578589
+/
+83.220.237.154
+0 2 2 6552 0 0
+-
+crawl-66-249-69-108.googlebot.com
+0 2 2 1145 0 0
+-
+crawl-66-249-69-78.googlebot.com
+0 91 90 5413243 11 1532005388
+/
+97.53.117.87.donpac.ru
+0 2 2 6552 0 0
+-
+dynamic-5.spb.bm18.new-line.net
+0 2 2 6552 0 0
+-
+crawl-66-249-69-76.googlebot.com
+0 89 89 3716599 5 1531714842
+/top-cyber-attacks-around-the-globe/
+112.42.6.148
+0 1 1 25968 1 1530478037
+/
+95.143.12.142
+0 2 2 6552 0 0
+-
+dynamicip-94-181-26-134.pppoe.chel.ertelecom.ru
+0 2 2 6552 0 0
+-
+173.252.124.123
+0 2 2 58592 0 0
+-
+ip-176-192-76-138.bb.netbynet.ru
+0 2 2 6552 0 0
+-
+223.191.43.76
+0 846 776 23649304 1 1531551749
+/wp-admin/
+182.19.41.136
+0 23 21 2158324 3 1531847666
+/
+google-proxy-66-102-6-108.google.com
+0 8 8 79244 1 1531857261
+/
+125.21.19.133
+0 68 68 10832918 1 1531283994
+/
+23-94-50-39-host.colocrossing.com
+0 2 1 25984 1 1532026803
+/
+static-150.93.156.182-tataidc.co.in
+0 60 59 3874050 1 1530707185
+/dashboard/
+188x187x36x49.dynamic.spb.ertelecom.ru
+0 2 2 6552 0 0
+-
+89-109-57-177.dynamic.mts-nn.ru
+0 2 2 6552 0 0
+-
+188.17.165.210
+0 2 2 6552 0 0
+-
+42-110-143-82.live.vodafone.in
+0 53 53 13286961 0 0
+-
+spider-20.lipperhey.com
+0 15 13 372322 1 1531002622
+/
+google-proxy-66-102-7-189.google.com
+0 1 1 3820 0 0
+-
+109.74.79.248
+0 2 2 6552 0 0
+-
+dynamicip-46-0-164-26.pppoe.samara.ertelecom.ru
+0 2 2 6552 0 0
+-
+79.142.96.233
+0 1 1 3133 0 0
+-
+cpanelprod1.sai-solutions.in
+0 40 40 2560 0 0
+-
+ip-5-153-182-89.wn.dn.ua
+0 1 1 3133 0 0
+-
+static.77.50.251.148.clients.your-server.de
+0 1 1 18548 1 1531837011
+/java/
+64.74.215.146
+0 18 18 254295 1 1531613530
+/
+69.58.178.57
+0 5 5 117035 1 1531645598
+/android/
+42-110-159-184.live.vodafone.in
+0 158 156 29939293 1 1531860421
+/embedded-systems/
+46.61.152.185
+0 2 2 6552 0 0
+-
+27.6.158.147
+0 32 28 1389301 1 1531076843
+/wp-admin/
+google-proxy-64-233-173-48.google.com
+0 136 117 11651829 7 1531848132
+/
+139.167.172.66
+0 109 108 15935328 1 1531283470
+/team/
+188.166.36.16
+0 4 3 26102 1 1530788342
+/
+google-proxy-66-102-6-239.google.com
+0 26 26 873924 1 1530468293
+/myths-about-your-cv/
+64.74.215.1
+0 423 423 9383399 1 1531498702
+/team/
+178.128.254.93
+0 4 3 26102 1 1531594353
+/
+crawl-66-249-70-12.googlebot.com
+0 23 23 363236 3 1530541089
+/
+223.191.38.98
+0 65 62 3941909 1 1530987942
+/wp-admin/
+178.90.227.18.megaline.telecom.kz
+0 2 2 6552 0 0
+-
+217.118.79.40
+0 2 2 6552 0 0
+-
+crawl-66-249-70-16.googlebot.com
+0 5 5 38157 1 1530546644
+/
+google-proxy-66-249-88-50.google.com
+0 7 7 112415 0 0
+-
+31.173.100.235
+0 2 2 6552 0 0
+-
+google-proxy-64-233-173-159.google.com
+0 2 0 0 2 1531847906
+/
+crawl-66-249-69-80.googlebot.com
+0 59 58 2575042 7 1531947960
+/hiddenembedded-systems-2/
+49.33.107.57
+0 7 6 153197 1 1530468284
+/
+crawl-66-249-69-96.googlebot.com
+0 1 1 67 0 0
+-
+crawl-66-249-69-223.googlebot.com
+0 3 1 67 1 1531143849
+/
+google-proxy-66-102-7-190.google.com
+0 3 3 56971 0 0
+-
+ns513008.ip-167-114-157.net
+0 2 1 25968 1 1531614286
+/
+223.88.178.69
+0 1 1 25968 1 1530477787
+/
+27.6.78.130
+0 4 4 110011 1 1531864669
+/android/
+crawl-66-249-75-25.googlebot.com
+0 1 0 0 1 1531632687
+/
+95.84.32.90
+0 2 2 6552 0 0
+-
+www.whois.sc
+0 2 2 26035 1 1530810588
+/
+157.41.165.111
+0 590 578 15106843 2 1531597763
+/hiddenpritam-chowdhury/
+20.72-202-104.rdns.scalabledns.com
+0 2 0 25968 1 1530463920
+-
+59.97.144.139
+0 62 60 3873055 1 1531281967
+/
+google-proxy-66-249-88-46.google.com
+0 7 7 297397 1 1530468293
+/top-cyber-attacks-around-the-globe/
+91.228.180.38
+0 2 2 6552 0 0
+-
+61.243.236.35.bc.googleusercontent.com
+0 1 0 0 1 1531467701
+/
+109-252-75-164.nat.spd-mgts.ru
+0 2 2 6552 0 0
+-
+google-proxy-64-233-173-44.google.com
+0 143 132 13395885 9 1531908458
+/
+31.13.114.208
+0 10 10 357375 1 1531581866
+/
+47.29.28.237
+0 58 58 3857642 1 1531300453
+/
+58.221.236.202
+0 1 1 25968 1 1530477350
+/
+14.139.35.223
+0 50 50 7819146 2 1531291678
+/team/
+153.142.115.112.broad.km.yn.dynamic.163data.com.cn
+0 1 1 25968 1 1530477934
+/
+176.100.94.8
+0 2 2 6552 0 0
+-
+31.13.114.214
+0 15 15 869336 1 1531581861
+/
+static.88-198-36-62.clients.your-server.de
+0 1 1 16766 1 1531217558
+/hiddenshinjini-saha/
+ec2-34-228-255-198.compute-1.amazonaws.com
+0 1 1 0 1 1531196187
+/
+google-proxy-64-233-173-46.google.com
+0 144 122 11160215 9 1531908463
+/
+103.106.200.6
+0 29 28 1406302 3 1531847668
+/
+115.98.13.24
+0 111 101 1707863 1 1530476142
+/wp-admin/
+google-proxy-66-102-6-235.google.com
+0 22 22 1845138 1 1530468292
+/
+83.149.44.48
+0 2 2 6552 0 0
+-
+110.166.157.221
+0 1 1 25968 1 1530477237
+/
+google-proxy-66-249-82-125.google.com
+0 2 0 0 1 1531598988
+/
+47.29.92.176
+0 47 46 4107216 1 1531303761
+/
+ec2-34-247-68-160.eu-west-1.compute.amazonaws.com
+0 2 1 25968 1 1530747392
+/
+178.124.79.253
+0 2 2 6552 0 0
+-
+188.18.13.172
+0 2 2 6552 0 0
+-
+31.13.114.211
+0 8 8 1078344 0 0
+-
+ns3031011.ip-149-202-205.eu
+0 1 1 25968 1 1530478798
+/
+182.19.41.137
+0 393 388 9297095 2 1531592793
+/wp-admin/
+217.23.186.100
+0 2 2 6552 0 0
+-
+31.13.114.209
+0 25 25 1552687 0 0
+-
+106.203.133.53
+0 149 145 3049703 1 1531122961
+/wp-admin/
+64.146.dynamic.pppoe.fregat.ua
+0 7 4 153143 1 1531232810
+/author/sagnikpaul28/
+47.29.38.159
+0 74 73 12090418 1 1531303911
+/
+49.33.29.223
+0 6 6 255472 1 1530468285
+/
+h37-122-5-120.dyn.bashtel.ru
+0 2 2 6552 0 0
+-
+crawl-66-249-64-31.googlebot.com
+0 2 1 67 1 1530546643
+/
+server78.hml.grapeshot.co.uk
+0 2 2 26035 1 1531760511
+/
+14.142.119.126.static-hyderabad.vsnl.net.in
+0 293 282 19753431 3 1531752720
+/
+google-proxy-66-102-6-237.google.com
+0 28 28 1929591 0 0
+-
+host90-152-4-117.ipv4.regusnet.com
+0 2 2 6552 0 0
+-
+mail.keyerleber.com
+0 2 1 25968 1 1531696342
+/
+31.173.80.105
+0 2 2 6552 0 0
+-
+47.29.69.105
+0 2 2 51936 1 1531315540
+/
+freebitcoinca.sh
+0 2 1 25968 1 1530903707
+/
+47.15.79.57
+0 110 110 15969584 1 1531499652
+/team/
+49.33.55.63
+0 72 71 4198134 1 1530986871
+/android/
+14.139.212.228
+0 1756 1739 44027787 5 1531664816
+/team/
+188.19.232.95
+0 2 2 6552 0 0
+-
+173.252.124.119
+0 1 1 29296 0 0
+-
+180.127.98.254
+0 1 1 25968 1 1530477022
+/
+45.61.173.33
+0 4 3 55654 1 1530600622
+/top-cyber-attacks-around-the-globe/
+crawl-66-249-69-127.googlebot.com
+0 1 0 0 1 1532005387
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+cpanelprod
+0 3 3 0 0 0
+-
+google-proxy-66-102-6-110.google.com
+0 1 1 25984 1 1532073735
+/
+google-proxy-66-102-6-112.google.com
+0 1 1 1547 0 0
+-
+h62-133-162-75.dyn.bashtel.ru
+0 2 2 6552 0 0
+-
+109.74.79.248
+0 2 2 6552 0 0
+-
+cpanelprod1.sai-solutions.in
+0 2 2 128 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.kiitelabs.com/wp-content/uploads/2017/11/cropped-cropped-Logo1.png
+0 1
+http://localhost/E-Labs/android/
+0 45
+http://localhost/E-Labs/networking/
+0 2
+http://www.kiitelabs.com/hiddenpallav-prince/
+0 1
+http://www.kiitelabs.com/wp-login.php
+0 69
+http://kiitelabs.com
+0 3
+http://www.kiitelabs.com/
+0 2227
+http://www.kiitelabs.com/embedded-systems/
+0 34
+http://www.kiitelabs.com/wp-admin/user-edit.php
+0 1
+http://kiitelabs.com/
+0 2
+http://www.kiitelabs.com/wp-admin/upload.php
+0 118
+http://localhost/E-Labs/team/
+0 47
+http://www.kiitelabs.com/blogs/
+0 95
+http://www.kiitelabs.com/wp-content/themes/accesspress-parallax/style.css
+0 90
+http://www.kiitelabs.com/team/
+0 465
+http://www.kiitelabs.com/hiddenkaushal-kishore/
+0 16
+http://www.google.com/search
+0 2
+http://www.kiitelabs.com/wp-admin/edit.php
+0 1368
+http://www.kiitelabs.com/contact-us/
+0 42
+http://www.kiitelabs.com/wp-content/themes/accesspress-parallax/css/bootstrap.min.css
+0 7
+http://www.kiitelabs.com/category/team/
+0 73
+http://www.kiitelabs.com/wp-content/themes/accesspress-parallax/css/jquery.bxslider.css
+0 33
+http://www.kiitelabs.com/wp-admin/upgrade.php
+0 1
+http://www.kiitelabs.com/hiddenembedded-systems-2/
+0 4
+http://www.kiitelabs.com/wp-admin/users.php
+0 17
+http://www.kiitelabs.com/java/
+0 32
+http://www.kiitelabs.com/wp-admin/update-core.php
+0 3
+- (Direct Request)
+0 555
+http://www.kiitelabs.com/class-schedule/
+0 7
+http://www.kiitelabs.com/web-development/
+0 44
+http://www.kiitelabs.com/wp-content/themes/accesspress-parallax/css/fontawesome/css/font-awesome.min.css
+0 41
+http://www.kiitelabs.com/hiddensharan-agarwal/
+0 2
+http://www.kiitelabs.com/wp-admin/edit-tags.php
+0 21
+http://www.kiitelabs.com/why-we-code-🤔🤔🤔/
+0 58
+http://www.kiitelabs.com/wp-admin/themes.php
+0 21
+http://localhost/E-Labs/contact-us/
+0 10
+http://localhost/E-Labs/
+0 123
+http://www.kiitelabs.com/wp-admin/theme-editor.php
+0 2
+http://www.kiitelabs.com/top-cyber-attacks-around-the-globe/
+0 23
+http://www.kiitelabs.com/hiddenpranshoo-verma/
+0 28
+http://www.kiitelabs.com/wp-admin/post-new.php
+0 716
+http://www.kiitelabs.com/wp-content/themes/accesspress-parallax/inc/options-framework/css/optionsframework.css
+0 1
+http://www.kiitelabs.com/wp-admin/post.php
+0 2221
+http://www.kiitelabs.com/hiddenpritam-chowdhury/
+0 2
+http://www.kiitelabs.com/android/
+0 95
+http://www.kiitelabs.com/hiddenshalika-singh/
+0 4
+http://www.kiitelabs.com/dashboard/
+0 38
+http://localhost/E-Labs/notices/
+0 1
+http://www.kiitelabs.com/register/
+0 26
+http://kiitelabs.com/xmlrpc.php
+0 2
+http://www.kiitelabs.com/wp-admin/user-new.php
+0 14
+http://www.kiitelabs.com/download-android-studio/
+0 31
+http://www.kiitelabs.com/myths-about-your-cv/
+0 12
+http://www.kiitelabs.com/wp-content/themes/accesspress-parallax/css/responsive.css
+0 15
+http://www.kiitelabs.com/wp-admin/load-styles.php
+0 20
+http://www.kiitelabs.com/hiddenrishi-raj/
+0 6
+http://www.kiitelabs.com/wp-cron.php
+0 161
+http://www.kiitelabs.com/hiddenshubham-chand/
+0 2
+https://www.google.co.in/
+0 2
+http://localhost/E-Labs/dashboard/
+0 6
+http://localhost/E-Labs/communication/
+0 1
+http://www.kiitelabs.com/wp-admin/tools.php
+0 2
+http://www.kiitelabs.com/communication/
+0 29
+http://localhost/E-Labs/iot/
+0 18
+http://www.kiitelabs.com/wp-admin/
+0 107
+http://www.kiitelabs.com/iot/
+0 43
+http://kiitelabs.com/wp-login.php
+0 51
+http://localhost/E-Labs/web-development/
+0 13
+http://www.kiitelabs.com/notices/
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Page Speed Insights) Chrome/41.0.2272.118 Safar
+0 56
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+0 118
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 7
+Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Saf
+0 9
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+0 65
+Mozilla/5.0 (compatible; GrapeshotCrawler/2.0; +http://www.grapeshot.co.uk/crawler.php)
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/41.0.2272.118 Safari/537.36
+0 60
+SafeDNSBot (https://www.safedns.com/searchbot)
+0 12
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.0.1) Gecko/2008070208
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+0 85
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+0 72
+Mozilla/5.0 (Linux; Android 7.1.1; Moto G (5S) Plus Build/NPSS26.116-61-8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0
+0 62
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+0 4695
+Mozilla/5.0 (Linux; Android 8.1.0; ONEPLUS A5000 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.33
+0 3
+Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile S
+0 8
+WordPress/4.8.7; http://www.kiitelabs.com
+0 137
+Mozilla/5.0 (Linux; Android 8.1.0; Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.81 Mobile S
+0 106
+Mozilla/5.0 (compatible; XoviBot/2.0; +http://www.xovibot.net/)
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 63
+COMODO DCV
+0 40
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.27+ (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+0 423
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 1
+Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.0.9.2372 Mobile Safari/537.10+
+0 3
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20130328 Firefox/21.0
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+0 127
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/67.0.3364.0 Safari/537.36
+0 57
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/66.0.3359.181 Chrome/66.0.3359.181 Saf
+0 283
+Mozilla/5.0 (Linux; U; Android 7.1.2; en-gb; Redmi Note 5 Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Ch
+0 65
+Mozilla/5.0 (Linux; Android 8.1.0; Nokia 6.1 Build/OPR1.170623.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.8
+0 187
+Googlebot-Image/1.0
+0 33
+Python-urllib/3.6
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safa
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+0 206
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Safa
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 13
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 OPR/50.0.
+0 1
+Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Sa
+0 3
+WordPress/4.8.6; http://www.kiitelabs.com
+0 25
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G925F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile S
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko; Google Page Speed Insights) 
+0 56
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+0 123
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.1 Safari/605.1.15
+0 58
+Mozilla/5.0 (Linux; Android 6.0; Lenovo A7020a48 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mob
+0 13
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:55.0) Gecko/20100101 Firefox/55.0
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 77
+Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3
+0 65
+Mozilla/5.0 (compatible; Dataprovider.com;)
+0 14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0.1 Safari/604.3.5
+0 1414
+Mozilla/5.0 (Linux; U; Android 4.1; en-us; GT-N7100 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile S
+0 65
+Mozilla/5.0 (Windows NT 6.0; rv:34.0) Gecko/20100101 Firefox/34.0
+0 101
+Mozilla/5.0 (compatible; ips-agent)
+0 5
+Mozilla/5.0 (Linux; Android 8.1.0; Redmi Note 5 Pro Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0
+0 60
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 15
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/37.0.2062.124 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; U; en-us; KFAPWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.13 Safari/535.19 Silk-Acceler
+0 12
+Mozilla/5.0 (compatible; DomainSONOCrawler/0.1; +http://domainsono.com)
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Redmi Note 3 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobi
+0 63
+LinkedInBot/1.0 (compatible; Mozilla/5.0; Jakarta Commons-HttpClient/3.1 +http://www.linkedin.com)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 2
+Python/3.6 aiohttp/3.3.2
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36
+0 36
+Opera/9.80 (Windows NT 6.2; Win64; x64) Presto/2.12.388 Version/12.17
+0 2
+Mozilla/5.0 (Linux; Android 4.2.1; en-us; Nexus 5 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko; googleweblight) Chrome
+0 108
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:1.9) Gecko/20100101 Firefox/4.0
+0 1
+okhttp/3.6.0
+0 3
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

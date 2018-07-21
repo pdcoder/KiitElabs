@@ -1,0 +1,615 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201807 will be lost/reset.
+# Last config file used to build this data file was /home/kiitelabs/tmp/awstats/awstats.kiitelabs.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2676                
+POS_VISITOR 11914               
+POS_DAY 17979               
+POS_DOMAIN 3520                
+POS_LOGIN 3948                
+POS_ROBOT 4103                
+POS_WORMS 4743                
+POS_EMAILSENDER 4874                
+POS_EMAILRECEIVER 5017                
+POS_SESSION 18566               
+POS_SIDER 18778               
+POS_FILETYPES 5152                
+POS_DOWNLOADS 5469                
+POS_OS 8398                
+POS_BROWSER 8670                
+POS_SCREENSIZE 9597                
+POS_UNKNOWNREFERER 9671                
+POS_UNKNOWNREFERERBROWSER 10244               
+POS_ORIGIN 10494               
+POS_SEREFERRALS 10634               
+POS_PAGEREFS 10799               
+POS_SEARCHWORDS 10947               
+POS_KEYWORDS 11099               
+POS_MISC 2340                
+POS_ERRORS 11158               
+POS_CLUSTER 3804                
+POS_SIDER_404 11303               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180720100202 38 7219 12123557409337
+FirstTime 0
+LastTime 20180720100202
+LastUpdate 20180720120316 38 0 38 0 0
+TotalVisits 311                 
+TotalUnique 143                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 151                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 8 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 29 286815 4 39 842890
+1 4 4 25968 3 18 361506
+2 8 8 6552 2 14 81079
+3 47 66 2139990 6 12 71999
+4 377 892 45239481 28 30 92686
+5 469 565 18023571 33 44 1219142
+6 26 135 18761328 2 14 3473677
+7 95 331 6424922 15 73 5013460
+8 15 16 53739 3 29 553409
+9 29 139 8133098 2 12 125488
+10 35 141 16298878 5 15 426037
+11 603 725 17858781 13 19 95136
+12 722 815 25707363 3 10 123562
+13 253 387 18810695 15 25 360041
+14 50 275 19544168 11 24 326833
+15 15 71 3878659 6 20 467387
+16 112 779 48977703 9 29 534524
+17 173 602 37482194 24 38 1180313
+18 439 1026 59223216 32 52 1251069
+19 467 577 33307539 5 11 76356
+20 374 681 47659439 16 16 117560
+21 214 250 13346779 3 21 329636
+22 193 267 7990200 9 23 468554
+23 4 4 51936 2 2 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+in 3463 5618 291350791
+us 991 2240 101133482
+ca 156 652 48226176
+ru 87 87 284869
+cn 13 67 4097248
+ua 8 8 188754
+by 4 4 13104
+ie 3 58 3857742
+gb 3 3 23318
+it 2 2 6552
+kz 2 2 6552
+de 2 2 35314
+tj 2 2 6552
+zz 0 40 2560
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+Googlebot/ 257 5051227 20180719130308 42
+Google[\x20]Web[\x20]Preview 60 3920794 20180716072254 0
+Googlebot\-Image/ 28 7647089 20180709072309 0
+SafeDNSBot 9 78306 20180714185233 6
+unknown 4 268 20180715090632 4
+no_user_agent 4 117184 20180714152453 0
+GrapeshotCrawler/ 3 52003 20180716222837 1
+LinkedInBot/ 2 28142 20180711091335 0
+Python\-urllib/ 2 51936 20180710041824 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 25968 20180701205958 0
+XoviBot/ 1 25968 20180703070640 0
+DomainSONOCrawler/ 1 25968 20180715002446 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+txt 40 2560 0 0
+php 4359 91561956 0 0
+jpg 1366 246443329 0 0
+js 1074 15698639 0 0
+woff 16 1568384 0 0
+xml 1 1045 0 0
+svg 9 10647 0 0
+gif 66 472417 0 0
+ttf 1 165548 0 0
+png 854 63410229 0 0
+css 640 17692564 0 0
+woff2 50 3307784 0 0
+html 309 8897912 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 40
+/.well-known/pki-validation/C754A71FC10BAB0CF4945095DFBDA193.txt 1 0 64
+/.well-known/pki-validation/2D4F55CD4BDD8902EAEC54A50F9F7FBA.txt 1 0 64
+/.well-known/pki-validation/10BADCAA3F6500F7DAC07E235D4F94FC.txt 1 0 64
+/.well-known/pki-validation/4F8097627B5EBFE71F51934B1C962E93.txt 1 0 64
+/.well-known/pki-validation/44A7C57E8928DEAA2B1F8AB4D4565E90.txt 1 0 64
+/.well-known/pki-validation/F602766AA66BE957D4E17F0059183D01.txt 1 0 64
+/.well-known/pki-validation/169983E60A7DD6DECCC19AF2C887D1BA.txt 1 0 64
+/.well-known/pki-validation/C115400584B18AB8E1A0A30704D2E350.txt 1 0 64
+/.well-known/pki-validation/1CAFA2852C97F0DD7DFFE3AAFA8835C4.txt 1 0 64
+/.well-known/pki-validation/20382D961807660BD49F34D4B521C8C6.txt 1 0 64
+/.well-known/pki-validation/5244F2719E1F63D10D682A1C8F0E68A9.txt 1 0 64
+/.well-known/pki-validation/8D266189FDB26D3C86945279521DBBDC.txt 1 0 64
+/.well-known/pki-validation/2BCEF7D8B701FFD21D1258E28A8654DF.txt 1 0 64
+/.well-known/pki-validation/7BF4865A41CF75E26F1AC491603137F6.txt 1 0 64
+/.well-known/pki-validation/35F00678F500596903DF5CE67D07DD46.txt 1 0 64
+/.well-known/pki-validation/BF6FA8F195904D7C1D1FF3EFFE098079.txt 1 0 64
+/.well-known/pki-validation/0C7C5460500D13A394E4DC873ECD8507.txt 1 0 64
+/.well-known/pki-validation/7C861DFF8DF1786F84E8D8DCDA32E155.txt 1 0 64
+/.well-known/pki-validation/62DFE4101D61EC569F87A77B6B2A4321.txt 1 0 64
+/.well-known/pki-validation/7946C9DD11E435D7E38B117B098D05D4.txt 1 0 64
+/.well-known/pki-validation/E282823940473C956FD63109E90E23E0.txt 1 0 64
+/.well-known/pki-validation/BA2C3280546F69C78CA2F0A803D3E774.txt 1 0 64
+/.well-known/pki-validation/8BD6C1718813ADC7E778986B9AFC7E26.txt 1 0 64
+/.well-known/pki-validation/1EBA97769042F2D69D6F44FCA0F9879B.txt 1 0 64
+/.well-known/pki-validation/A4E9A387A4B474CEE37570C4A47FE846.txt 1 0 64
+/.well-known/pki-validation/4AF4874B8190A232AFF4720389AACEAE.txt 1 0 64
+/.well-known/pki-validation/ED80F3608B99F461CDE722432173EEF7.txt 1 0 64
+/.well-known/pki-validation/9B41FD6BC42AA47580757CA2C56D4AE1.txt 1 0 64
+/.well-known/pki-validation/E9109462F279612BBDD1113B4831A069.txt 1 0 64
+/.well-known/pki-validation/4873FD7FE3360F39643822FFDECC47BF.txt 1 0 64
+/.well-known/pki-validation/A6857ED2115A79DA949952B16AA99523.txt 1 0 64
+/.well-known/pki-validation/0B906E2A63DB3D55E1183FDEB9B2CA5D.txt 1 0 64
+/.well-known/pki-validation/BBD0E2361D11ABA1FED20829E3A062AD.txt 1 0 64
+/.well-known/pki-validation/96ECB01185B1BF8D9C4B51C0D22D0124.txt 1 0 64
+/.well-known/pki-validation/91279D91A47AB42CE2FB96EB8AA6E8D8.txt 1 0 64
+/.well-known/pki-validation/D99421E653442C86BF0E3C7893171F32.txt 1 0 64
+/.well-known/pki-validation/F151BE404CF666949061ACBA5AC35C14.txt 1 0 64
+/.well-known/pki-validation/44570BBB8E7BF861DF07E69548BA1A02.txt 1 0 64
+/.well-known/pki-validation/E96C103980EC0B002765D549431DAFBB.txt 1 0 64
+/.well-known/pki-validation/D2177E178F50E2880B8C1C66D6A26416.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+macosx 1696 929
+linuxandroid 856 97
+win8 2 2
+win2003 13 11
+Unknown 224 178
+winlong 101 101
+win7 168 30
+macosx11 1 1
+macosx10 2 2
+ios_iphone 1 1
+linux 322 39
+winxp 433 39
+win10 4697 3133
+linuxubuntu 269 173
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 42
+chrome63.0.3239.132 1 1
+chrome37.0.2062.124 1 1
+opera12.17 1 1
+firefox55.0 3 3
+android 73 0
+chrome53.0.2785.143 1 1
+chrome65.0.3325.181 1 1
+chrome61.0.3163.128 64 5
+chrome61.0.3163.100 1 1
+msie7.0 13 11
+chrome27.0.1453.93 1 1
+chrome67.0.3396.99 5152 3187
+chrome67.0.3396.87 494 89
+chrome41.0.2272.118 110 4
+firefox59.0 1 1
+chrome67.0.3396.81 108 5
+chrome45.0.2454.94 1 1
+firefox21.0 1 1
+safari5.0.4 422 30
+safari10.0.9.2372 3 0
+firefox11.0 2 0
+chrome50.0.2661.89 12 1
+Unknown 205 162
+firefox61.0 69 11
+opera50.0.2762.67 1 1
+chrome67.0.3364.0 57 3
+chrome38.0.1025.166 108 5
+firefox34.0 101 101
+chrome31.0.1650.57 4 4
+chrome41.0.2227.1 1 1
+chrome56.0.2924.76 36 2
+mozilla 17 17
+safari11.0.1 1353 885
+msie6.0 8 8
+safari9.0 1 1
+safari 11 0
+chrome49.0.2623.75 15 9
+chrome60.0.3112.101 1 1
+chrome40.0.2214.85 1 1
+chrome66.0.3359.181 269 173
+safari11.1.1 58 3
+chrome63.0.3239.84 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+COMODO_DCV 20180720050043
+Mozilla/5.0_(compatible;_ips-agent) 20180715090638
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180707223020
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180704112431
+Mozilla/5.0_(BB10;_Touch)_AppleWebKit/537.10__(KHTML,_like_Gecko)_Version/10.0.9.2372_Mobile_Safari/537.10_ 20180713203608
+WordPress/4.8.7;_http://www.kiitelabs.com 20180720100152
+WordPress/4.8.6;_http://www.kiitelabs.com 20180705170947
+okhttp/3.6.0 20180701181348
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+WordPress/4.8.6;_http://www.kiitelabs.com 20180705170947
+okhttp/3.6.0 20180701181348
+COMODO_DCV 20180720050043
+WordPress/4.8.7;_http://www.kiitelabs.com 20180720100152
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 234 302
+From1 0 0
+From2 1 2
+From3 0 0
+From4 4501 8481
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_co_in 1 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+404 19 271194
+403 1 25968
+206 6 269803
+302 114 0
+405 1 42
+301 69 484
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 7
+/wp-content/themes/accesspress-parallax/css/bootstrap.min.css.map 13 -
+/ungraylistcheck 1 http://www.kiitelabs.com/wp-login.php
+/ 1 -
+/jsuzbcyrweamwki.html 1 -
+/sitemap.xml 1 -
+/wp-content/themes/accesspress-parallax/css/font-awesome.min.css 1 http://www.kiitelabs.com/wp-admin/themes.php
+/ads.txt 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 151
+14.139.212.228 1392 1740 44027787 20180718071635
+223.191.43.76 760 796 23649304 20180714070517
+157.41.165.111 541 581 15106843 20180714195111
+60.243.163.152 360 569 50654686 20180714205742
+103.106.200.4 360 468 14529837 20180718071632
+182.19.41.137 329 388 9297095 20180715131244
+52.173.85.101 161 161 1 20180720100152 20180720100152 /wp-cron.php
+47.15.120.52 104 282 7558472 20180714044011
+115.98.13.24 87 104 1693349 20180701210314
+157.41.191.109 63 64 936516 20180715112603
+157.41.193.121 55 56 1126845 20180715112548
+14.142.119.126 35 282 19653285 20180716145200
+64.74.215.1 30 422 9383332 20180713161823
+64.233.173.46 26 144 11160215 20180718100743
+106.203.133.53 24 145 3049703 20180709075808
+64.233.173.44 23 143 13395885 20180718100738
+64.233.173.48 23 136 11651829 20180717172212
+27.6.158.147 22 30 1389301 20180708191619
+106.222.239.67 15 119 16473608 20180707165111
+182.72.171.14 14 84 7244761 20180707175621
+158.69.27.211 12 12 343711 20180707223022
+49.33.55.63 11 69 4198134 20180707180751
+38.100.21.69 11 13 308857 20180706095429
+42.110.159.184 10 154 29862215 20180717204701
+14.139.212.226 8 81 6265315 20180717171440
+23.94.50.39 1 1 25984 20180719190003
+94.130.167.248 1 1 25968 20180703004309
+34.247.68.160 1 1 25968 20180704233632
+138.197.0.16 1 1 25968 20180704112431
+107.190.173.13 1 1 25968 20180701165202
+95.110.56.145 2 2 6552 20180719162031
+66.249.88.46 1 7 297397 20180701180453
+47.29.92.176 7 46 4107216 20180711101010
+206.180.165.147 1 1 25968 20180715231222
+176.59.203.22 2 2 6552 20180719131628
+109.252.82.185 2 2 6552 20180706071517
+178.176.112.254 2 2 6552 20180716161841
+95.84.32.90 2 2 6552 20180716153433
+91.210.146.64 4 4 153101 20180710142650
+188.162.166.224 2 2 6552 20180712180911
+66.102.6.110 5 5 84202 20180720080215
+31.173.80.105 2 2 6552 20180719164322
+31.13.114.214 1 15 869336 20180714152421
+47.29.69.105 2 2 51936 20180711132540
+66.249.88.50 0 7 112415 
+94.243.220.77 2 2 6552 20180715124712
+46.61.152.185 2 2 6552 20180712203237
+93.153.236.82 4 4 13104 20180712194815
+27.6.78.130 2 4 110011 20180717215749
+52.214.216.191 1 1 25968 20180716015124
+31.173.100.235 2 2 6552 20180713051346
+87.117.53.97 2 2 6552 20180713085626
+49.44.122.169 3 58 3873985 20180701180302
+103.106.200.6 2 28 1406302 20180717171428
+112.115.142.153 1 1 25968 20180701204534
+45.61.173.33 3 3 55654 20180703065023
+223.191.38.98 6 62 3941909 20180707182543
+62.133.162.75 2 2 6552 20180720100202 20180720100152 /wp-login.php
+90.152.4.117 2 2 6552 20180711105238
+66.249.88.48 1 14 344047 20180701180453
+66.102.6.235 1 22 1845138 20180701180452
+178.90.227.18 2 2 6552 20180703044229
+59.97.144.139 3 59 3858783 20180711040607
+23.250.105.171 1 1 25968 20180707163638
+66.102.6.112 2 5 33742 20180716071358
+85.94.0.104 2 2 6552 20180716120623
+47.15.102.122 8 61 3945933 20180711172009
+46.0.164.26 2 2 6552 20180703100017
+14.139.35.223 5 50 7819146 20180711064758
+94.25.168.160 2 2 6552 20180716042846
+88.198.36.62 1 1 16766 20180710101238
+109.74.79.248 2 2 6552 20180720084603
+46.47.41.136 2 2 6552 20180711111218
+47.29.38.159 8 73 12090418 20180711101151
+110.166.157.221 1 1 25968 20180701203357
+42.110.143.82 0 53 13286961 
+79.142.96.233 1 1 3133 20180718184942
+94.25.84.130 2 2 6552 20180716102809
+31.13.114.208 1 10 357375 20180714152426
+188.187.36.49 2 2 6552 20180716071531
+125.21.19.133 2 68 10832918 20180711064823
+64.74.215.146 1 18 254295 20180715001210
+10.0.1.4 0 40 2560 
+182.156.93.150 4 59 3874050 20180704122625
+109.252.75.164 2 2 6552 20180719060856
+176.192.76.138 2 2 6552 20180711162752
+95.143.12.142 2 2 6552 20180719171334
+88.99.27.172 1 1 16766 20180717141651
+64.74.215.170 1 18 254298 20180710044401
+66.249.82.64 2 35 2555134 20180714200951
+66.249.82.66 1 27 1437505 20180714200949
+175.149.38.213 1 1 25968 20180701202656
+89.109.57.177 2 2 6552 20180706162924
+157.41.222.159 3 58 3857642 20180711042945
+66.102.7.189 0 1 3820 
+88.56.41.148 2 2 6552 20180709081112
+188.17.165.210 2 2 6552 20180703140351
+66.249.82.95 1 48 3628419 20180714200952
+5.153.182.89 1 1 3133 20180716135541
+62.133.162.50 2 2 6552 20180719163854
+47.29.28.237 3 58 3857642 20180711091413
+94.181.26.134 2 2 6552 20180710162020
+180.127.98.254 1 1 25968 20180701203022
+114.244.152.227 1 1 25968 20180701203331
+47.15.79.57 7 110 15969584 20180713164658
+139.167.172.66 5 108 15935328 20180711043210
+83.220.237.154 2 2 6552 20180709212916
+183.66.230.22 1 1 25968 20180716163022
+217.23.186.100 2 2 6552 20180716175654
+37.122.5.120 2 2 6552 20180713073104
+66.102.7.190 0 3 56971 
+188.18.13.172 2 2 6552 20180713020046
+64.246.165.210 1 1 25968 20180705170948
+112.42.6.148 1 1 25968 20180701204717
+176.100.94.8 2 2 6552 20180719154703
+148.251.50.77 1 1 18548 20180717141651
+83.149.44.48 2 2 6552 20180712071420
+157.41.157.58 6 8 230736 20180714172854
+188.162.166.105 2 2 6552 20180710192652
+223.88.178.69 1 1 25968 20180701204307
+188.19.232.95 2 2 6552 20180719142046
+182.19.41.136 2 21 2158324 20180713184442
+167.99.216.39 1 1 25968 20180706190147
+66.102.6.108 2 5 33742 20180719151635
+178.176.112.18 2 2 6552 20180712050552
+34.228.255.198 1 1 0 20180710041627
+47.29.3.11 2 2 51936 20180712134033
+59.97.159.235 3 57 3933711 20180716055645
+178.124.79.253 2 2 6552 20180710054616
+69.58.178.57 4 4 116968 20180715090638
+37.45.203.31 2 2 6552 20180719060348
+49.33.29.223 1 6 255472 20180701180445
+31.13.114.211 0 8 1078344 
+66.102.6.239 2 26 873924 20180701180453
+31.13.114.209 1 25 1552687 20180714152424
+46.172.192.233 2 2 6552 20180702083852
+49.33.107.57 0 6 153197 
+188.162.166.43 2 2 6552 20180707065802
+46.48.246.24 2 2 6552 20180708090902
+94.25.170.209 2 2 6552 20180716122051
+157.41.150.100 5 58 3888463 20180715065822
+91.228.180.38 2 2 6552 20180719120536
+58.221.236.202 1 1 25968 20180701203550
+47.15.89.197 3 6 249328 20180714134237
+111.231.218.16 4 58 3863536 20180703175613
+217.118.79.40 2 2 6552 20180718001922
+159.203.5.161 2 2 0 20180713022127
+77.222.108.68 2 2 6552 20180709140214
+61.95.254.10 3 58 3857642 20180710041405
+94.75.1.133 2 2 6552 20180715145842
+66.102.6.237 0 28 1929591 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 20
+20180701 121 474 32901063 25
+20180702 7 9 6680 6
+20180703 20 76 3964942 12
+20180704 10 67 3926114 6
+20180705 13 69 4864700 9
+20180706 20 24 348057 8
+20180707 101 512 43113660 17
+20180708 30 40 1414165 8
+20180709 51 182 5763157 15
+20180710 24 98 4301591 15
+20180711 69 608 66569088 23
+20180712 24 26 143312 15
+20180713 252 1095 70681787 19
+20180714 2307 2991 109017775 28
+20180715 1536 1883 49088265 25
+20180716 57 170 8202455 25
+20180717 38 356 43393702 18
+20180718 14 57 1369442 12
+20180719 34 37 122296 20
+20180720 8 11 40763 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 21
+5mn-15mn 12
+15mn-30mn 7
+0s-30s 226
+30s-2mn 14
+1h+ 15
+2mn-5mn 14
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 59
+/wp-admin/admin-ajax.php 3245 7108704 7 17
+/wp-admin/post.php 380 45557766 0 1
+/wp-admin/edit.php 266 24837378 1 1
+/ 182 4672335 97 71
+/wp-cron.php 161 0 115 114
+/wp-login.php 140 460772 66 58
+/wp-admin/load-scripts.php 64 4116712 0 2
+/wp-admin/post-new.php 49 5217355 1 0
+/wp-content/themes/accesspress-parallax/css/fontawesome/fonts/fontawesome-webfont.woff2 42 3163560 9 8
+/wp-admin/load-styles.php 28 2098631 0 2
+/wp-admin/ 19 922247 3 0
+/android/ 18 326371 2 8
+/wp-content/themes/accesspress-parallax/css/fontawesome/fonts/fontawesome-webfont.woff 16 1568384 0 1
+/team/ 15 1138027 1 2
+/dashboard/ 9 147672 1 4
+/wp-content/themes/accesspress-parallax/fonts/glyphicons-halflings-regular.woff2 8 144224 1 5
+/blogs/ 8 204800 0 2
+/web-development/ 8 146136 0 1
+/iot/ 6 110106 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 6 1202028 0 0
+/wp-admin/users.php 5 215450 0 0
+/embedded-systems/ 5 93151 0 1
+/contact-us/ 3 50694 0 0
+/wp-admin/edit-tags.php 3 202402 0 0
+/notices/ 3 47967 0 0
+/xmlrpc.php 1 425 0 0
+/wp-admin/update-core.php 1 35275 0 0
+/class-schedule-2/ 1 16559 0 1
+/why-we-code-%f0%9f%a4%94%f0%9f%a4%94%f0%9f%a4%94/ 2 47800 0 0
+/register/ 1 20247 0 0
+/why-iot/ 1 19526 0 0
+/wp-admin/themes.php 1 118745 0 0
+/wp-content/themes/accesspress-parallax/css/fontawesome/fonts/fontawesome-webfont.ttf 1 165548 0 1
+/wp-includes/wlwmanifest.xml 1 1045 0 0
+/category/team/ 2 154510 1 1
+/hiddensharan-agarwal/ 1 16784 0 0
+/hiddenpritam-chowdhury/ 1 24979 0 0
+/hiddenshinjini-saha/ 2 33532 2 2
+/wp-admin/tools.php 1 35802 0 0
+/wp-admin/upgrade.php 1 1 1 1
+/hiddenpallav-prince/ 1 24955 0 0
+/hiddenrishi-raj/ 2 49284 0 0
+/networking/ 1 18871 0 0
+/wp-admin/user-new.php 2 63027 0 0
+/wp-admin/upload.php 1 77936 0 0
+/wp-admin/profile.php 1 41139 0 0
+/download-android-studio/ 1 16784 0 0
+/why-we-code-%F0%9F%A4%94%F0%9F%A4%94%F0%9F%A4%94/ 2 47800 1 1
+/hiddenkaushal-kishore/ 1 24824 0 0
+/myths-about-your-cv/ 1 21181 0 1
+/author/sagnikpaul28/ 1 123575 0 1
+/courses/ 2 99980 0 0
+/feed/ 1 92999 0 0
+/communication/ 3 50541 0 0
+/hiddenpranshoo-verma/ 1 24975 0 0
+/wp-admin/user-edit.php 1 41819 0 0
+/top-cyber-attacks-around-the-globe/ 2 52822 1 1
+/java/ 3 55878 1 1
+/wp-admin/theme-editor.php 2 130589 0 0
+END_SIDER

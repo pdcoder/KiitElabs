@@ -1,0 +1,269 @@
+html, body{
+    width: 100vw;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+body{
+	font-family: 'Poppins', sans-serif !important;
+}
+
+h1{
+    font-size: 3em;
+}
+h2{
+    font-size: 2.5em;
+}
+h3{
+    font-size: 2em;
+}
+h4{
+    font-size: 1.8em;
+}
+h5{
+    font-size: 1.4em;
+}
+h6{
+    font-size: 1.25em;
+}
+@media screen and (max-width: 768px){
+    h1{
+        font-size: 2em;
+    }
+    h2{
+        font-size: 1.75em;
+    }
+    h3{
+        font-size: 1.5em;
+    }
+    h4{
+        font-size: 1.4em;
+    }
+    h5{
+        font-size: 1.2em;
+    }
+    h6{
+        font-size: 1.175em;
+    }
+}
+div.row{
+    margin-left: 0;
+    margin-right: 0;
+}
+input, label{
+    width: 100%;
+    border-radius: 4px;
+}
+.hentry{
+    padding: 0;
+    margin-bottom: 0;
+}
+
+/*Loader*/
+.loader {
+  margin-top: 35vh;
+  border: 3vmin solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 3vmin solid #E66432;
+  width: 20vmin;
+  height: 20vmin;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+footer.entry-footer{
+    display: none;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+
+@media screen and (max-width: 768px){
+    #posts{
+        box-shadow: 0 0 4vmin #ddd;
+    }
+}
+
+/*Header*/
+#masthead{
+    padding: 0;
+}
+#site-logo img{
+    transform: scale(0.6) translateX(-25%);
+}
+@media screen and (max-width: 1000px){
+    nav#site-navigation{
+        margin-top: 4vh;
+    }
+}
+
+/*Team Page*/
+#button-div>button.btn{
+    background-color: rgba(250, 250, 250, 0.7); 
+    color: #e66432;
+    width: 40vw; 
+    border: 2px solid #E66432; 
+    padding: 25px 0; 
+    line-height: 0;
+    display: inline-block;
+    margin: 5vh 3vw;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+@media screen and (max-width: 768px){
+    #button-div>button.btn{
+        width: 90%;
+        margin: 10px auto 20px;
+    }
+    #button-div>button.btn:first-of-type{
+        margin: 20px auto 0;
+    }
+
+}
+
+.year{
+    padding: 0 0 2vh;
+    width: 90vw;
+    box-shadow: 0 0 3px 0.3px #aaa;
+    display: block;
+    margin: 2vh auto;
+}
+
+.year > h2{
+    padding-top: 20px;
+}
+
+.memberimages{
+    width: 20%;
+    height: auto;
+    margin: 3vh 1.5%;
+    display: inline-block;
+    position: relative;
+}
+@media screen and (max-width: 992px){
+    .memberimages{
+        width: 30%;
+        margin: 3vh 1%;
+    }
+}
+@media screen and (max-width: 768px){
+    .memberimages{
+        width: 40%;
+    }
+}
+@media screen and (max-width: 600px){
+    .memberimages{
+        width: 80%;
+        display: block;
+        margin: 2vh auto;
+    }
+}
+
+.layer{
+    transition: 0.3s;
+    z-index: 3;
+    opacity: 0;
+    background: rgba(255, 255, 255, 0.7);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.layer img{
+    height: 0;
+    width: 0;
+    z-index: 0;
+    transition: 0.3s;
+    padding: 1.5vmin;
+    color: white;
+    transition: 0.3s;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -ie-border-radius: 50%;
+    margin-top: 3vmax;
+    margin-left: 1.5vw;
+    margin-right: 1.5vw;
+    box-shadow: 0 0 3px 0.4px #777;
+}
+
+.content-members > img{
+    height: auto;
+    width: 100%;
+}
+
+.memberimages:hover .layer{
+    transition: 0.35s;
+    height: 100%;
+    opacity: 1;
+}
+.layer img:hover{
+    z-index: 3;
+    box-shadow: 0 0 3px 2px #777;
+    transition: 0.3s;
+}
+
+.memberimages:hover img{
+    filter: blur(2px) grayscale(0.5);
+    -webkit-filter: blur(2px) grayscale(0.5);
+    -moz-filter: blur(2px) grayscale(0.5);
+    -ms-filter: blur(2px) grayscale(0.5);
+    -ie-filter: blur(2px) grayscale(0.5);
+}
+
+.memberimages:hover a img{
+    transition: 0.2s;
+    width: 3vmax;
+    height: 3vmax;
+    filter: blur(0) grayscale(0);
+    -webkit-filter: blur(0) grayscale(0);
+    -moz-filter: blur(0) grayscale(0);
+    -ms-filter: blur(0) grayscale(0);
+    -ie-filter: blur(0) grayscale(0);
+}
+
+.memberimages:hover .content_members{
+    box-shadow: 0 0 3px 3px #aaa;
+}
+
+.content_members{
+    margin-top: 2vh;
+    display: block;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-bottom: 1.5vh;
+    padding-top: 2vh;
+    box-shadow: 0 0 3px 0.5px #aaa;
+}
+
+/*Courses Page*/
+#course-instructors{
+    display: flex;
+    flex-wrap: wrap;
+}
+#course-structure{
+    text-align: left;
+    box-shadow: 0 0 2vmin #ccc; 
+    margin-left: 2vw; 
+    margin-right: 2vw; 
+    width: 96vw; 
+    padding: 2vh 2vw;
+}
+
+
+/*Blogs Page*/
+#posts:hover{
+    box-shadow: 0 0 2vmin #ddd;
+}
+

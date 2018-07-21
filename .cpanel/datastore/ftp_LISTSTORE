@@ -1,0 +1,1 @@
+{"statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE","mode":"simple","version":"2.4","action":"fetch","exit_code":0,"status":1,"timeout":0,"error":0,"data":[{"type":"main","user":"kiitelabs","homedir":"/home/kiitelabs"},{"type":"logaccess","user":"kiitelabs_logs","homedir":"/etc/apache2/logs/domlogs/kiitelabs"}]}

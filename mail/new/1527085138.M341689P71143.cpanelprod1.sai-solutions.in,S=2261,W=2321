@@ -1,0 +1,60 @@
+Return-Path: <>
+Delivered-To: kiitelabs@cpanelprod1.sai-solutions.in
+Received: from cpanelprod1.sai-solutions.in
+	by cpanelprod1.sai-solutions.in with LMTP id aGYFE1J4BVvnFQEAyIEmcA
+	for <kiitelabs@cpanelprod1.sai-solutions.in>; Wed, 23 May 2018 14:18:58 +0000
+Return-path: <>
+Envelope-to: kiitelabs@cpanelprod1.sai-solutions.in
+Delivery-date: Wed, 23 May 2018 14:18:58 +0000
+Received: from mailnull by cpanelprod1.sai-solutions.in with local (Exim 4.91)
+	id 1fLUbS-000IVN-6N
+	for kiitelabs@cpanelprod1.sai-solutions.in; Wed, 23 May 2018 14:18:58 +0000
+X-Failed-Recipients: elabs.electronics@kiit.ac.in
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@cpanelprod1.sai-solutions.in>
+To: kiitelabs@cpanelprod1.sai-solutions.in
+Content-Type: multipart/report; report-type=delivery-status; boundary=1527085138-eximdsn-1733587219
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1fLUbS-000IVN-6N@cpanelprod1.sai-solutions.in>
+Date: Wed, 23 May 2018 14:18:58 +0000
+
+--1527085138-eximdsn-1733587219
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  elabs.electronics@kiit.ac.in
+    retry timeout exceeded
+
+--1527085138-eximdsn-1733587219
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; cpanelprod1.sai-solutions.in
+
+Action: failed
+Final-Recipient: rfc822;elabs.electronics@kiit.ac.in
+Status: 5.0.0
+
+--1527085138-eximdsn-1733587219
+Content-type: message/rfc822
+
+Return-path: <kiitelabs@cpanelprod1.sai-solutions.in>
+Received: from kiitelabs by cpanelprod1.sai-solutions.in with local (Exim 4.91)
+	(envelope-from <kiitelabs@cpanelprod1.sai-solutions.in>)
+	id 1fLUaQ-000IUH-Ne
+	for elabs.electronics@kiit.ac.in; Wed, 23 May 2018 14:17:55 +0000
+To: elabs.electronics@kiit.ac.in
+Subject: Testing
+X-PHP-Script: www.kiitelabs.com/index.php for 42.110.143.188
+X-PHP-Originating-Script: 564:page-contact.php
+From: Sagnik Paul <sagnikpaul2882@gmail.com>
+Message-Id: <E1fLUaQ-000IUH-Ne@cpanelprod1.sai-solutions.in>
+Date: Wed, 23 May 2018 14:17:54 +0000
+
+Testing
+
+--1527085138-eximdsn-1733587219--
