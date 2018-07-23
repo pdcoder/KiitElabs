@@ -27,6 +27,13 @@
 	<div class="loader"></div>
 	</center>
 </div>
+<div id="modal">
+  <div id="modal_content">
+    <h1>Elabs Orientation Programme.<h1>
+    <h2>@ 10 a.m. , 29th July, Campus 12 Auditorium.</h2> 
+    <a class="close" href="#" title="Close">✖</a>  
+  </div>
+</div> 
 <div id="page" class="hfeed site">
 	<header id="masthead" class="<?php echo of_get_option('header_layout'); ?>">
 		<div class="mid-content clearfix">
