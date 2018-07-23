@@ -32,4 +32,9 @@ jQuery('#button_alumni').click(function(){
     button_team.style.color = '#E66432'; 
     button_alumni.style.backgroundColor = '#E66432'; 
     button_alumni.style.color = 'white';
-})
+});
+jQuery('div#modal').on('click','a',function(event){
+  event.preventDefault();
+  jQuery('div#modal').fadeOut('slow');
+  jQuery('h1,h2,p').removeClass('blured_text');  
+});
